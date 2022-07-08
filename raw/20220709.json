@@ -155,6 +155,10 @@
     "href": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BA%86%E6%9D%A5%20%E8%AE%A8%E5%8E%8C&Refer=top",
     "hot": 260080
   },
+  "王嘉尔泰国发布会台下像开音乐节": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%B3%B0%E5%9B%BD%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%B0%E4%B8%8B%E5%83%8F%E5%BC%80%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "hot": 256753
+  },
   "约翰逊用日语回应安倍遇刺": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%BA%A6%E7%BF%B0%E9%80%8A%E7%94%A8%E6%97%A5%E8%AF%AD%E5%9B%9E%E5%BA%94%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%23&Refer=top",
     "hot": 244385
@@ -207,6 +211,10 @@
     "href": "https://s.weibo.com/weibo?q=%2322%E5%B2%81%E8%BE%85%E8%AD%A6%E4%B8%BA%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%E4%B8%8D%E5%B9%B8%E7%89%BA%E7%89%B2%23&Refer=top",
     "hot": 139024
   },
+  "蔡徐坤我也是歌手收到这个通告": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%88%91%E4%B9%9F%E6%98%AF%E6%AD%8C%E6%89%8B%E6%94%B6%E5%88%B0%E8%BF%99%E4%B8%AA%E9%80%9A%E5%91%8A%23&Refer=top",
+    "hot": 136842
+  },
   "安娜将于8月公开扩张版": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%A8%9C%E5%B0%86%E4%BA%8E8%E6%9C%88%E5%85%AC%E5%BC%80%E6%89%A9%E5%BC%A0%E7%89%88%23&Refer=top",
     "hot": 123356
@@ -230,5 +238,9 @@
   "特朗普就安倍中枪表态": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E8%A1%A8%E6%80%81%23&Refer=top",
     "hot": 83773
+  },
+  "安娜": {
+    "href": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%A8%9C&Refer=top",
+    "hot": 74165
   }
 }
