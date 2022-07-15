@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-16 04:06:12
+最后更新时间 2022-07-16 05:04:49
 
 1. [迪奥 抄袭](https://s.weibo.com/weibo?q=%E8%BF%AA%E5%A5%A5%20%E6%8A%84%E8%A2%AD&Refer=top) 3422721
 1. [冒名顶替上大学毁了当事人一生](https://s.weibo.com/weibo?q=%23%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6%E6%AF%81%E4%BA%86%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%B8%80%E7%94%9F%23&Refer=top) 1024970
@@ -60,6 +60,7 @@
 1. [未定事件簿](https://s.weibo.com/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF&Refer=top) 112457
 1. [陈紫函悬空吻看傻戴向宇](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E6%82%AC%E7%A9%BA%E5%90%BB%E7%9C%8B%E5%82%BB%E6%88%B4%E5%90%91%E5%AE%87%23&Refer=top) 103107
 1. [今年夏天能有多热](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%A4%8F%E5%A4%A9%E8%83%BD%E6%9C%89%E5%A4%9A%E7%83%AD%23&Refer=top) 99896
+1. [甘肃本次疫情病毒为变异株BA.2.38](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E4%B8%BA%E5%8F%98%E5%BC%82%E6%A0%AABA.2.38%23&Refer=top) 95878
 1. [中国考古大会](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%80%83%E5%8F%A4%E5%A4%A7%E4%BC%9A&Refer=top) 89536
 1. [新疆昭苏又见天马浴河](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%98%AD%E8%8B%8F%E5%8F%88%E8%A7%81%E5%A4%A9%E9%A9%AC%E6%B5%B4%E6%B2%B3%23&Refer=top) 88513
 1. [小伙地铁上制止偷拍被警方表扬](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9C%B0%E9%93%81%E4%B8%8A%E5%88%B6%E6%AD%A2%E5%81%B7%E6%8B%8D%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%A1%A8%E6%89%AC%23&Refer=top) 85940
@@ -72,18 +73,17 @@
 1. [少年派2](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E6%B4%BE2%23&Refer=top) 63267
 1. [什么是马面裙](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E9%A9%AC%E9%9D%A2%E8%A3%99%23&Refer=top) 62137
 1. [马龙 解说](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%20%E8%A7%A3%E8%AF%B4&Refer=top) 59963
+1. [今年三伏天持续至8月24日](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%89%E4%BC%8F%E5%A4%A9%E6%8C%81%E7%BB%AD%E8%87%B38%E6%9C%8824%E6%97%A5%23&Refer=top) 47762
 1. [RNG对战LNG](https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98LNG%23&Refer=top) 45968
 1. [老人中暑倒地警车经过未救助被质疑](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%AD%E6%9A%91%E5%80%92%E5%9C%B0%E8%AD%A6%E8%BD%A6%E7%BB%8F%E8%BF%87%E6%9C%AA%E6%95%91%E5%8A%A9%E8%A2%AB%E8%B4%A8%E7%96%91%23&Refer=top) 35216
 1. [AG逆风翻盘](https://s.weibo.com/weibo?q=%23AG%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%23&Refer=top) 33814
 1. [辅警江边拍婚纱照救起两人](https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E6%B1%9F%E8%BE%B9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E6%95%91%E8%B5%B7%E4%B8%A4%E4%BA%BA%23&Refer=top) 32143
 1. [全国最大的奥特曼](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%23&Refer=top) 30641
+1. [林峯说自己的评论区被包围了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E5%8C%85%E5%9B%B4%E4%BA%86%23&Refer=top) 26575
 1. [丁程鑫的元气感染了刘敏涛](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%9A%84%E5%85%83%E6%B0%94%E6%84%9F%E6%9F%93%E4%BA%86%E5%88%98%E6%95%8F%E6%B6%9B%23&Refer=top) 24334
-1. [林峯说自己的评论区被包围了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%A2%AB%E5%8C%85%E5%9B%B4%E4%BA%86%23&Refer=top) 14385
-1. [今年三伏天持续至8月24日](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%89%E4%BC%8F%E5%A4%A9%E6%8C%81%E7%BB%AD%E8%87%B38%E6%9C%8824%E6%97%A5%23&Refer=top) 10552
 1. [孙颖莎3比0波尔卡诺娃](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%B3%A2%E5%B0%94%E5%8D%A1%E8%AF%BA%E5%A8%83%23&Refer=top) 9999
-1. [甘肃本次疫情病毒为变异株BA.2.38](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%97%85%E6%AF%92%E4%B8%BA%E5%8F%98%E5%BC%82%E6%A0%AABA.2.38%23&Refer=top) 8932
-1. [太阳将顶薪续约艾顿](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E5%B0%86%E9%A1%B6%E8%96%AA%E7%BB%AD%E7%BA%A6%E8%89%BE%E9%A1%BF%23&Refer=top) 6378
-1. [垫付首日系统拥堵储户登录困难](https://s.weibo.com/weibo?q=%23%E5%9E%AB%E4%BB%98%E9%A6%96%E6%97%A5%E7%B3%BB%E7%BB%9F%E6%8B%A5%E5%A0%B5%E5%82%A8%E6%88%B7%E7%99%BB%E5%BD%95%E5%9B%B0%E9%9A%BE%23&Refer=top) 5472
+1. [太阳将顶薪续约艾顿](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E5%B0%86%E9%A1%B6%E8%96%AA%E7%BB%AD%E7%BA%A6%E8%89%BE%E9%A1%BF%23&Refer=top) 8579
+1. [垫付首日系统拥堵储户登录困难](https://s.weibo.com/weibo?q=%23%E5%9E%AB%E4%BB%98%E9%A6%96%E6%97%A5%E7%B3%BB%E7%BB%9F%E6%8B%A5%E5%A0%B5%E5%82%A8%E6%88%B7%E7%99%BB%E5%BD%95%E5%9B%B0%E9%9A%BE%23&Refer=top) 6945
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
