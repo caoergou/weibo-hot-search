@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-19 01:15:15
+最后更新时间 2022-07-19 02:07:01
 
 1. [阴阳怪气还得看驾校教练](https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E8%BF%98%E5%BE%97%E7%9C%8B%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%23&Refer=top) 2114533
 1. [高考生查分第2天脑出血进ICU](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86%E7%AC%AC2%E5%A4%A9%E8%84%91%E5%87%BA%E8%A1%80%E8%BF%9BICU%23&Refer=top) 1973717
@@ -49,6 +49,7 @@
 1. [主任会扔下楼的病历](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BB%BB%E4%BC%9A%E6%89%94%E4%B8%8B%E6%A5%BC%E7%9A%84%E7%97%85%E5%8E%86%23&Refer=top) 212616
 1. [当代年轻人的朋友圈文案](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E6%A1%88%23&Refer=top) 198459
 1. [才知道快速冰镇饮料的方法](https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E5%BF%AB%E9%80%9F%E5%86%B0%E9%95%87%E9%A5%AE%E6%96%99%E7%9A%84%E6%96%B9%E6%B3%95%23&Refer=top) 159069
+1. [大山的女儿豆瓣开分9.1](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B1%B1%E7%9A%84%E5%A5%B3%E5%84%BF%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%869.1%23&Refer=top) 155934
 1. [理发前后变化能有多大](https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top) 151976
 1. [优酷 沉香如屑](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7%20%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91&Refer=top) 140045
 1. [沉香如屑今晚没有空降](https://s.weibo.com/weibo?q=%23%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E4%BB%8A%E6%99%9A%E6%B2%A1%E6%9C%89%E7%A9%BA%E9%99%8D%23&Refer=top) 137457
@@ -69,11 +70,13 @@
 1. [人类幼崽请你逛超市是什么体验](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E8%AF%B7%E4%BD%A0%E9%80%9B%E8%B6%85%E5%B8%82%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 91840
 1. [胡明轩14分](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%98%8E%E8%BD%A914%E5%88%86%23&Refer=top) 90399
 1. [张小泉总经理称中国人切菜方法不对](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%B3%89%E6%80%BB%E7%BB%8F%E7%90%86%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%87%E8%8F%9C%E6%96%B9%E6%B3%95%E4%B8%8D%E5%AF%B9%23&Refer=top) 88397
+1. [人类移民为什么最先拿火星练手](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%A7%BB%E6%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%85%88%E6%8B%BF%E7%81%AB%E6%98%9F%E7%BB%83%E6%89%8B%23&Refer=top) 80943
 1. [蔡徐坤官宣新歌722上线](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%AE%98%E5%AE%A3%E6%96%B0%E6%AD%8C722%E4%B8%8A%E7%BA%BF%23&Refer=top) 78168
+1. [王庆来霸气为幸福讨公道](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BA%86%E6%9D%A5%E9%9C%B8%E6%B0%94%E4%B8%BA%E5%B9%B8%E7%A6%8F%E8%AE%A8%E5%85%AC%E9%81%93%23&Refer=top) 73739
 1. [中国男篮大胜印尼男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%A7%E8%83%9C%E5%8D%B0%E5%B0%BC%E7%94%B7%E7%AF%AE%23&Refer=top) 71752
 1. [不能拍蒜的菜刀等于放弃中餐市场](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E6%8B%8D%E8%92%9C%E7%9A%84%E8%8F%9C%E5%88%80%E7%AD%89%E4%BA%8E%E6%94%BE%E5%BC%83%E4%B8%AD%E9%A4%90%E5%B8%82%E5%9C%BA%23&Refer=top) 67595
 1. [水尾村孩子群体性血铅中毒](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%B0%BE%E6%9D%91%E5%AD%A9%E5%AD%90%E7%BE%A4%E4%BD%93%E6%80%A7%E8%A1%80%E9%93%85%E4%B8%AD%E6%AF%92%23&Refer=top) 59876
-1. [王庆来霸气为幸福讨公道](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BA%86%E6%9D%A5%E9%9C%B8%E6%B0%94%E4%B8%BA%E5%B9%B8%E7%A6%8F%E8%AE%A8%E5%85%AC%E9%81%93%23&Refer=top) 56819
+1. [李秀满为BoA出道20周年制作Better](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%A7%80%E6%BB%A1%E4%B8%BABoA%E5%87%BA%E9%81%9320%E5%91%A8%E5%B9%B4%E5%88%B6%E4%BD%9CBetter%23&Refer=top) 29848
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
