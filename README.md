@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-24 01:09:21
+最后更新时间 2022-07-24 02:06:19
 
 1. [孩子发烧取化验单护士低头玩手机](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E5%8F%96%E5%8C%96%E9%AA%8C%E5%8D%95%E6%8A%A4%E5%A3%AB%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%23&Refer=top) 2248401
 1. [倪妮演了张子枫的妈](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%BC%94%E4%BA%86%E5%BC%A0%E5%AD%90%E6%9E%AB%E7%9A%84%E5%A6%88%23&Refer=top) 1542822
@@ -43,6 +43,7 @@
 1. [张本智和 吵](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%20%E5%90%B5&Refer=top) 461570
 1. [千万别尝试奶茶新品](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%B0%9D%E8%AF%95%E5%A5%B6%E8%8C%B6%E6%96%B0%E5%93%81%23&Refer=top) 459699
 1. [檀健次给杨紫备注历史老师](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BB%99%E6%9D%A8%E7%B4%AB%E5%A4%87%E6%B3%A8%E5%8E%86%E5%8F%B2%E8%80%81%E5%B8%88%23&Refer=top) 440076
+1. [音乐节为什么越来越贵](https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%23&Refer=top) 425470
 1. [林妙妙分手了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A6%99%E5%A6%99%E5%88%86%E6%89%8B%E4%BA%86%23&Refer=top) 413544
 1. [张艺兴晒照感谢大家](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%99%92%E7%85%A7%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%23&Refer=top) 396241
 1. [天津蓟州文旅局通报景区游客坠亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E8%93%9F%E5%B7%9E%E6%96%87%E6%97%85%E5%B1%80%E9%80%9A%E6%8A%A5%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%9D%A0%E4%BA%A1%23&Refer=top) 372657
