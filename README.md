@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-07-29 02:07:29
+最后更新时间 2022-07-29 03:02:03
 
 1. [台湾是中国的台湾](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%B0%E6%B9%BE%23&Refer=top) 2950412
 1. [两高中生奸杀教师案第三人将受审](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A5%B8%E6%9D%80%E6%95%99%E5%B8%88%E6%A1%88%E7%AC%AC%E4%B8%89%E4%BA%BA%E5%B0%86%E5%8F%97%E5%AE%A1%23&Refer=top) 2446314
@@ -76,6 +76,7 @@
 1. [RNG晋级季后赛](https://s.weibo.com/weibo?q=%23RNG%E6%99%8B%E7%BA%A7%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top) 101783
 1. [翔松](https://s.weibo.com/weibo?q=%E7%BF%94%E6%9D%BE&Refer=top) 100212
 1. [林志颖顺利完成手部开刀](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E9%A1%BA%E5%88%A9%E5%AE%8C%E6%88%90%E6%89%8B%E9%83%A8%E5%BC%80%E5%88%80%23&Refer=top) 74963
+1. [你这背景太假了小伙回应](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%99%E8%83%8C%E6%99%AF%E5%A4%AA%E5%81%87%E4%BA%86%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%23&Refer=top) 69084
 1. [没想到还能把熊吓跑](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%98%E8%83%BD%E6%8A%8A%E7%86%8A%E5%90%93%E8%B7%91%23&Refer=top) 30477
 <!-- Rank End -->
 
