@@ -239,6 +239,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%96%AD%E6%A1%A5%E5%93%AD%E6%88%8F%23&Refer=top",
     "hot": 55845
   },
+  "广东17家企业入围世界500强": {
+    "href": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C17%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%85%A5%E5%9B%B4%E4%B8%96%E7%95%8C500%E5%BC%BA%23&Refer=top",
+    "hot": 44589
+  },
   "钱三一出息了": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%92%B1%E4%B8%89%E4%B8%80%E5%87%BA%E6%81%AF%E4%BA%86%23&Refer=top",
     "hot": 38518
@@ -246,5 +250,9 @@
   "张馨予说不管是气质气势没输过": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E8%AF%B4%E4%B8%8D%E7%AE%A1%E6%98%AF%E6%B0%94%E8%B4%A8%E6%B0%94%E5%8A%BF%E6%B2%A1%E8%BE%93%E8%BF%87%23&Refer=top",
     "hot": 31859
+  },
+  "林志颖哥哥报平安": {
+    "href": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%93%A5%E5%93%A5%E6%8A%A5%E5%B9%B3%E5%AE%89%23&Refer=top",
+    "hot": 16097
   }
 }
