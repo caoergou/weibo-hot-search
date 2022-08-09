@@ -17,10 +17,11 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-08-10 00:06:54
+最后更新时间 2022-08-10 01:11:19
 
 1. [蔡徐坤工作室发文回应](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23&Refer=top) 2778461
 1. [被Wendy笑死](https://s.weibo.com/weibo?q=%23%E8%A2%ABWendy%E7%AC%91%E6%AD%BB%23&Refer=top) 2168105
+1. [拜登正式签署芯片法案](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB%E6%AD%A3%E5%BC%8F%E7%AD%BE%E7%BD%B2%E8%8A%AF%E7%89%87%E6%B3%95%E6%A1%88&Refer=top) 1552497
 1. [中国空间站将再添新房间](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E5%86%8D%E6%B7%BB%E6%96%B0%E6%88%BF%E9%97%B4%23&Refer=top) 1442101
 1. [张家界坠亡女骑手丈夫发声](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9D%A0%E4%BA%A1%E5%A5%B3%E9%AA%91%E6%89%8B%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23&Refer=top) 1438482
 1. [名创优品](https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%23&Refer=top) 1044215
@@ -32,6 +33,7 @@
 1. [赵奕欢说我不想有一个包贝尔](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%A5%95%E6%AC%A2%E8%AF%B4%E6%88%91%E4%B8%8D%E6%83%B3%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8C%85%E8%B4%9D%E5%B0%94%23&Refer=top) 682612
 1. [王栎鑫眼睛肿成蛤蟆](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%9C%BC%E7%9D%9B%E8%82%BF%E6%88%90%E8%9B%A4%E8%9F%86%23&Refer=top) 674227
 1. [沉香如屑 猫眼](https://s.weibo.com/weibo?q=%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%20%E7%8C%AB%E7%9C%BC&Refer=top) 663364
+1. [00后女孩给离世父母发消息分享生活](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%BB%99%E7%A6%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E5%8F%91%E6%B6%88%E6%81%AF%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB%23&Refer=top) 632560
 1. [南昌每5套房就有1套空着](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E6%AF%8F5%E5%A5%97%E6%88%BF%E5%B0%B1%E6%9C%891%E5%A5%97%E7%A9%BA%E7%9D%80%23&Refer=top) 599536
 1. [社区开展好媳妇为婆婆洗脚活动](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%BC%80%E5%B1%95%E5%A5%BD%E5%AA%B3%E5%A6%87%E4%B8%BA%E5%A9%86%E5%A9%86%E6%B4%97%E8%84%9A%E6%B4%BB%E5%8A%A8%23&Refer=top) 538966
 1. [一层三户分别住着海军陆军武警](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E4%B8%89%E6%88%B7%E5%88%86%E5%88%AB%E4%BD%8F%E7%9D%80%E6%B5%B7%E5%86%9B%E9%99%86%E5%86%9B%E6%AD%A6%E8%AD%A6%23&Refer=top) 464692
@@ -43,7 +45,6 @@
 1. [苍兰诀登顶猫眼热度榜](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E7%99%BB%E9%A1%B6%E7%8C%AB%E7%9C%BC%E7%83%AD%E5%BA%A6%E6%A6%9C%23&Refer=top) 339187
 1. [张远碎活](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E7%A2%8E%E6%B4%BB%23&Refer=top) 339070
 1. [江苏一运猪车起火秒变烤箱](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E8%BF%90%E7%8C%AA%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%A7%92%E5%8F%98%E7%83%A4%E7%AE%B1%23&Refer=top) 338840
-1. [拜登正式签署芯片法案](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB%E6%AD%A3%E5%BC%8F%E7%AD%BE%E7%BD%B2%E8%8A%AF%E7%89%87%E6%B3%95%E6%A1%88&Refer=top) 298956
 1. [1600年前的匈奴都城即将重现](https://s.weibo.com/weibo?q=%231600%E5%B9%B4%E5%89%8D%E7%9A%84%E5%8C%88%E5%A5%B4%E9%83%BD%E5%9F%8E%E5%8D%B3%E5%B0%86%E9%87%8D%E7%8E%B0%23&Refer=top) 281290
 1. [芯片大基金公司三名高管被查](https://s.weibo.com/weibo?q=%23%E8%8A%AF%E7%89%87%E5%A4%A7%E5%9F%BA%E9%87%91%E5%85%AC%E5%8F%B8%E4%B8%89%E5%90%8D%E9%AB%98%E7%AE%A1%E8%A2%AB%E6%9F%A5%23&Refer=top) 278845
 1. [LPL](https://s.weibo.com/weibo?q=LPL&Refer=top) 270500
@@ -62,6 +63,7 @@
 1. [苏醒想要工作陆虎想要猪蹄](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E6%83%B3%E8%A6%81%E5%B7%A5%E4%BD%9C%E9%99%86%E8%99%8E%E6%83%B3%E8%A6%81%E7%8C%AA%E8%B9%84%23&Refer=top) 211354
 1. [小胖猫真的太可爱了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E7%8C%AB%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86%23&Refer=top) 204217
 1. [乘客翻入北京地铁2号线轨道身亡](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E7%BF%BB%E5%85%A5%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%812%E5%8F%B7%E7%BA%BF%E8%BD%A8%E9%81%93%E8%BA%AB%E4%BA%A1%23&Refer=top) 190274
+1. [苍兰诀](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%23&Refer=top) 180102
 1. [警方通报建德春江明月小区1死1伤](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%BB%BA%E5%BE%B7%E6%98%A5%E6%B1%9F%E6%98%8E%E6%9C%88%E5%B0%8F%E5%8C%BA1%E6%AD%BB1%E4%BC%A4%23&Refer=top) 175304
 1. [TES 下路](https://s.weibo.com/weibo?q=TES%20%E4%B8%8B%E8%B7%AF&Refer=top) 173858
 1. [鼻炎患者有多难](https://s.weibo.com/weibo?q=%23%E9%BC%BB%E7%82%8E%E6%82%A3%E8%80%85%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top) 172124
@@ -69,6 +71,10 @@
 1. [上海市民朋友圈晒晚霞](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%B0%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%92%E6%99%9A%E9%9C%9E%23&Refer=top) 165750
 1. [女子微整形失败10个月没敢出门](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%AE%E6%95%B4%E5%BD%A2%E5%A4%B1%E8%B4%A510%E4%B8%AA%E6%9C%88%E6%B2%A1%E6%95%A2%E5%87%BA%E9%97%A8%23&Refer=top) 152041
 1. [永昌公安警情通报](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E6%98%8C%E5%85%AC%E5%AE%89%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&Refer=top) 125410
+1. [yolo](https://s.weibo.com/weibo?q=%23yolo%23&Refer=top) 124190
+1. [苍兰诀吻戏好多](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E5%90%BB%E6%88%8F%E5%A5%BD%E5%A4%9A%23&Refer=top) 112062
+1. [男子进店推销无果后跪地不起](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9B%E5%BA%97%E6%8E%A8%E9%94%80%E6%97%A0%E6%9E%9C%E5%90%8E%E8%B7%AA%E5%9C%B0%E4%B8%8D%E8%B5%B7%23&Refer=top) 107409
+1. [雷军喜欢重金属](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%96%9C%E6%AC%A2%E9%87%8D%E9%87%91%E5%B1%9E%23&Refer=top) 89635
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
