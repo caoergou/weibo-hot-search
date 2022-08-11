@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-08-12 01:10:28
+最后更新时间 2022-08-12 03:01:58
 
 1. [26岁小伙口渴难耐吃半个西瓜险丧命](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%B0%8F%E4%BC%99%E5%8F%A3%E6%B8%B4%E9%9A%BE%E8%80%90%E5%90%83%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 1386188
 1. [全场凌公子买单](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E5%87%8C%E5%85%AC%E5%AD%90%E4%B9%B0%E5%8D%95%23&Refer=top) 1283073
@@ -43,6 +43,7 @@
 1. [程少商含泪吻住凌不疑](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%B0%91%E5%95%86%E5%90%AB%E6%B3%AA%E5%90%BB%E4%BD%8F%E5%87%8C%E4%B8%8D%E7%96%91%23&Refer=top) 301169
 1. [小米自动驾驶首次亮相](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23&Refer=top) 287000
 1. [冰雨火 滤镜](https://s.weibo.com/weibo?q=%E5%86%B0%E9%9B%A8%E7%81%AB%20%E6%BB%A4%E9%95%9C&Refer=top) 272514
+1. [为什么年轻人越来越惜命](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23&Refer=top) 268676
 1. [何广智cos周杰伦](https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B9%BF%E6%99%BAcos%E5%91%A8%E6%9D%B0%E4%BC%A6%23&Refer=top) 267478
 1. [成都六勇士之一辅警被报请记功表彰](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%85%AD%E5%8B%87%E5%A3%AB%E4%B9%8B%E4%B8%80%E8%BE%85%E8%AD%A6%E8%A2%AB%E6%8A%A5%E8%AF%B7%E8%AE%B0%E5%8A%9F%E8%A1%A8%E5%BD%B0%23&Refer=top) 256213
 1. [潮汕生腌怎么还打人呢](https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B1%95%E7%94%9F%E8%85%8C%E6%80%8E%E4%B9%88%E8%BF%98%E6%89%93%E4%BA%BA%E5%91%A2%23&Refer=top) 243241
