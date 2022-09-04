@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-05 02:07:52
+最后更新时间 2022-09-05 03:02:31
 
 1. [90%学生被取消学籍系因游戏](https://s.weibo.com/weibo?q=%2390%25%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E5%AD%A6%E7%B1%8D%E7%B3%BB%E5%9B%A0%E6%B8%B8%E6%88%8F%23&Refer=top) 2003942
 1. [呼吸哥哭了](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E5%93%A5%E5%93%AD%E4%BA%86%23&Refer=top) 1608175
@@ -70,9 +70,11 @@
 1. [上海台风](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E%23&Refer=top) 129294
 1. [男子回农村花12万买下1200平大院](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%86%9C%E6%9D%91%E8%8A%B112%E4%B8%87%E4%B9%B0%E4%B8%8B1200%E5%B9%B3%E5%A4%A7%E9%99%A2%23&Refer=top) 128808
 1. [7条定律助你提升自我](https://s.weibo.com/weibo?q=%237%E6%9D%A1%E5%AE%9A%E5%BE%8B%E5%8A%A9%E4%BD%A0%E6%8F%90%E5%8D%87%E8%87%AA%E6%88%91%23&Refer=top) 116655
+1. [世界赛](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E8%B5%9B&Refer=top) 104189
 1. [实现躺平午休有多舒服](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 80667
 1. [NH金色的雨](https://s.weibo.com/weibo?q=%23NH%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 68176
 1. [朱正廷霸王别姬舞台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC%E8%88%9E%E5%8F%B0%23&Refer=top) 67861
+1. [福州现巨型乌云](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%B9%8C%E4%BA%91%23&Refer=top) 53394
 1. [那英撒贝宁50分钟做了3桌菜](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E6%92%92%E8%B4%9D%E5%AE%8150%E5%88%86%E9%92%9F%E5%81%9A%E4%BA%863%E6%A1%8C%E8%8F%9C%23&Refer=top) 44464
 <!-- Rank End -->
 
