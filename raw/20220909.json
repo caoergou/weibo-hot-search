@@ -11,9 +11,13 @@
     "href": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E6%88%90%E4%B8%BA%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%23&t=31&band_rank=2&Refer=top",
     "hot": 4560059
   },
+  "伦敦桥塌了": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%BC%A6%E6%95%A6%E6%A1%A5%E5%A1%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+    "hot": 2610469
+  },
   "泸定抗震救灾72小时": {
     "href": "https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE72%E5%B0%8F%E6%97%B6%23&t=31&band_rank=3&Refer=top",
-    "hot": 1802259
+    "hot": 1818958
   },
   "英媒称严重程度前所未见": {
     "href": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E7%A7%B0%E4%B8%A5%E9%87%8D%E7%A8%8B%E5%BA%A6%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81%23&t=31&band_rank=2&Refer=top",
@@ -42,6 +46,14 @@
   "特拉斯": {
     "href": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%8B%89%E6%96%AF&t=31&band_rank=9&Refer=top",
     "hot": 909131
+  },
+  "英国国王声明": {
+    "href": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E5%A3%B0%E6%98%8E&t=31&band_rank=5&Refer=top",
+    "hot": 813341
+  },
+  "英国全国哀悼期已经开始": {
+    "href": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%9C%9F%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B&t=31&band_rank=23&Refer=top",
+    "hot": 806564
   },
   "B站二季度净亏损20亿": {
     "href": "https://s.weibo.com/weibo?q=%23B%E7%AB%99%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E4%BA%8F%E6%8D%9F20%E4%BA%BF%23&t=31&band_rank=10&Refer=top",
@@ -159,6 +171,10 @@
     "href": "https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%23&t=31&band_rank=32&Refer=top",
     "hot": 242761
   },
+  "伊丽莎白二世在位时间最长": {
+    "href": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E4%BA%8C%E4%B8%96%E5%9C%A8%E4%BD%8D%E6%97%B6%E9%97%B4%E6%9C%80%E9%95%BF%23&t=31&band_rank=10&Refer=top",
+    "hot": 241980
+  },
   "邢菲回复网友好真诚": {
     "href": "https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%E5%9B%9E%E5%A4%8D%E7%BD%91%E5%8F%8B%E5%A5%BD%E7%9C%9F%E8%AF%9A%23&t=31&band_rank=34&Refer=top",
     "hot": 229847
@@ -219,13 +235,13 @@
     "href": "https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BF%97%E6%99%9F%E5%93%AD%E4%BA%86%23&t=31&band_rank=47&Refer=top",
     "hot": 147649
   },
-  "英国全国哀悼期已经开始": {
-    "href": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%9C%9F%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B&t=31&band_rank=23&Refer=top",
-    "hot": 145327
-  },
   "好像突然就想通了": {
     "href": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E7%AA%81%E7%84%B6%E5%B0%B1%E6%83%B3%E9%80%9A%E4%BA%86%23&t=31&band_rank=48&Refer=top",
     "hot": 140052
+  },
+  "见证历史": {
+    "href": "https://s.weibo.com/weibo?q=%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2&t=31&band_rank=13&Refer=top",
+    "hot": 130897
   },
   "百名产品经理倡议将选择权还给用户": {
     "href": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%90%8D%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%80%A1%E8%AE%AE%E5%B0%86%E9%80%89%E6%8B%A9%E6%9D%83%E8%BF%98%E7%BB%99%E7%94%A8%E6%88%B7%23&t=31&band_rank=49&Refer=top",
@@ -239,9 +255,21 @@
     "href": "https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%AF%B4%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%9D%A5%E4%B8%9C%E5%85%AB%E5%8C%BA%E6%97%85%E6%B8%B8%E7%9A%84%23&t=31&band_rank=42&Refer=top",
     "hot": 92504
   },
+  "英女王生平": {
+    "href": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%A5%B3%E7%8E%8B%E7%94%9F%E5%B9%B3%23&t=31&band_rank=23&Refer=top",
+    "hot": 87557
+  },
+  "白冰说姐讲的不是人话是神话": {
+    "href": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E8%AF%B4%E5%A7%90%E8%AE%B2%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D%E6%98%AF%E7%A5%9E%E8%AF%9D%23&t=31&band_rank=30&Refer=top",
+    "hot": 63352
+  },
   "苏黎世vs阿森纳": {
     "href": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%BB%8E%E4%B8%96vs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=49&Refer=top",
     "hot": 40280
+  },
+  "联合国秘书长致哀": {
+    "href": "https://s.weibo.com/weibo?q=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E8%87%B4%E5%93%80&t=31&band_rank=46&Refer=top",
+    "hot": 33739
   },
   "不要在家养太多狗": {
     "href": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%AE%B6%E5%85%BB%E5%A4%AA%E5%A4%9A%E7%8B%97%23&t=31&band_rank=50&Refer=top",
