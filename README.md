@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-16 02:08:05
+最后更新时间 2022-09-16 04:07:05
 
 1. [海南免税版iPhone14系列价格](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E7%89%88iPhone14%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=21&Refer=top) 872578
 1. [费德勒宣布退役](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%BE%B7%E5%8B%92%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=1&Refer=top) 604471
@@ -78,7 +78,10 @@
 1. [谷歌面临近300亿元罚款](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E9%9D%A2%E4%B8%B4%E8%BF%91300%E4%BA%BF%E5%85%83%E7%BD%9A%E6%AC%BE%23&t=31&band_rank=27&Refer=top) 42069
 1. [11岁女孩自学建模实现盲盒自由](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%AE%9E%E7%8E%B0%E7%9B%B2%E7%9B%92%E8%87%AA%E7%94%B1%23&t=31&band_rank=47&Refer=top) 38355
 1. [小森林亲友团集齐了我的甜剧墙头](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%A3%AE%E6%9E%97%E4%BA%B2%E5%8F%8B%E5%9B%A2%E9%9B%86%E9%BD%90%E4%BA%86%E6%88%91%E7%9A%84%E7%94%9C%E5%89%A7%E5%A2%99%E5%A4%B4%23&t=31&band_rank=34&Refer=top) 37505
-1. [女子包500亩地种红薯被村民偷挖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8C%85500%E4%BA%A9%E5%9C%B0%E7%A7%8D%E7%BA%A2%E8%96%AF%E8%A2%AB%E6%9D%91%E6%B0%91%E5%81%B7%E6%8C%96%23&t=31&band_rank=47&Refer=top) 22528
+1. [女子包500亩地种红薯被村民偷挖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8C%85500%E4%BA%A9%E5%9C%B0%E7%A7%8D%E7%BA%A2%E8%96%AF%E8%A2%AB%E6%9D%91%E6%B0%91%E5%81%B7%E6%8C%96%23&t=31&band_rank=47&Refer=top) 22827
+1. [白冰新剧用30万与原生家庭和解](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E6%96%B0%E5%89%A7%E7%94%A830%E4%B8%87%E4%B8%8E%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%92%8C%E8%A7%A3%23&t=31&band_rank=21&Refer=top) 18462
+1. [蛋仔派对](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9&t=31&band_rank=48&Refer=top) 8091
+1. [把泰迪都整失眠了](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%B3%B0%E8%BF%AA%E9%83%BD%E6%95%B4%E5%A4%B1%E7%9C%A0%E4%BA%86%23&t=31&band_rank=49&Refer=top) 6672
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
