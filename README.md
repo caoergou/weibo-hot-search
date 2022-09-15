@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-16 05:07:05
+最后更新时间 2022-09-16 06:06:18
 
 1. [海南免税版iPhone14系列价格](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E7%89%88iPhone14%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=21&Refer=top) 872578
 1. [费德勒宣布退役](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%BE%B7%E5%8B%92%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=1&Refer=top) 604471
@@ -59,6 +59,7 @@
 1. [人民币三年三次破7](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%89%E5%B9%B4%E4%B8%89%E6%AC%A1%E7%A0%B47%23&t=31&band_rank=33&Refer=top) 146438
 1. [太湖湾音乐节](https://s.weibo.com/weibo?q=%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=34&Refer=top) 139847
 1. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=35&Refer=top) 139173
+1. [台湾在福岛进口食品中检出微量辐射](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%A8%E7%A6%8F%E5%B2%9B%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E4%B8%AD%E6%A3%80%E5%87%BA%E5%BE%AE%E9%87%8F%E8%BE%90%E5%B0%84%23&t=31&band_rank=47&Refer=top) 131529
 1. [酸奶产品宣称从老人肠道采集益生菌](https://s.weibo.com/weibo?q=%23%E9%85%B8%E5%A5%B6%E4%BA%A7%E5%93%81%E5%AE%A3%E7%A7%B0%E4%BB%8E%E8%80%81%E4%BA%BA%E8%82%A0%E9%81%93%E9%87%87%E9%9B%86%E7%9B%8A%E7%94%9F%E8%8F%8C%23&t=31&band_rank=36&Refer=top) 131139
 1. [王鹤棣 好笑](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E5%A5%BD%E7%AC%91%23&t=31&band_rank=37&Refer=top) 129624
 1. [女子网购鸡胸肉一捏似豆腐](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E9%B8%A1%E8%83%B8%E8%82%89%E4%B8%80%E6%8D%8F%E4%BC%BC%E8%B1%86%E8%85%90%23&t=31&band_rank=38&Refer=top) 128840
@@ -75,17 +76,19 @@
 1. [离岸人民币兑美元跌破7.0关口](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E8%B7%8C%E7%A0%B47.0%E5%85%B3%E5%8F%A3%23&t=31&band_rank=49&Refer=top) 77812
 1. [丁禹兮新剧片花换了10套造型](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%96%B0%E5%89%A7%E7%89%87%E8%8A%B1%E6%8D%A2%E4%BA%8610%E5%A5%97%E9%80%A0%E5%9E%8B%23&t=31&band_rank=32&Refer=top) 66000
 1. [很难不对明艳大美人心动吧](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E4%B8%8D%E5%AF%B9%E6%98%8E%E8%89%B3%E5%A4%A7%E7%BE%8E%E4%BA%BA%E5%BF%83%E5%8A%A8%E5%90%A7%23&t=31&band_rank=33&Refer=top) 64200
+1. [公司回应招人事不录用单身人士](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BA%BA%E4%BA%8B%E4%B8%8D%E5%BD%95%E7%94%A8%E5%8D%95%E8%BA%AB%E4%BA%BA%E5%A3%AB%23&t=31&band_rank=37&Refer=top) 42736
 1. [谷歌面临近300亿元罚款](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E9%9D%A2%E4%B8%B4%E8%BF%91300%E4%BA%BF%E5%85%83%E7%BD%9A%E6%AC%BE%23&t=31&band_rank=27&Refer=top) 42069
 1. [11岁女孩自学建模实现盲盒自由](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%AE%9E%E7%8E%B0%E7%9B%B2%E7%9B%92%E8%87%AA%E7%94%B1%23&t=31&band_rank=47&Refer=top) 38355
 1. [小森林亲友团集齐了我的甜剧墙头](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%A3%AE%E6%9E%97%E4%BA%B2%E5%8F%8B%E5%9B%A2%E9%9B%86%E9%BD%90%E4%BA%86%E6%88%91%E7%9A%84%E7%94%9C%E5%89%A7%E5%A2%99%E5%A4%B4%23&t=31&band_rank=34&Refer=top) 37505
-1. [女子包500亩地种红薯被村民偷挖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8C%85500%E4%BA%A9%E5%9C%B0%E7%A7%8D%E7%BA%A2%E8%96%AF%E8%A2%AB%E6%9D%91%E6%B0%91%E5%81%B7%E6%8C%96%23&t=31&band_rank=47&Refer=top) 22827
-1. [白冰新剧用30万与原生家庭和解](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E6%96%B0%E5%89%A7%E7%94%A830%E4%B8%87%E4%B8%8E%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%92%8C%E8%A7%A3%23&t=31&band_rank=21&Refer=top) 18462
-1. [公司回应招人事不录用单身人士](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%8B%9B%E4%BA%BA%E4%BA%8B%E4%B8%8D%E5%BD%95%E7%94%A8%E5%8D%95%E8%BA%AB%E4%BA%BA%E5%A3%AB%23&t=31&band_rank=37&Refer=top) 11706
+1. [女子包500亩地种红薯被村民偷挖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8C%85500%E4%BA%A9%E5%9C%B0%E7%A7%8D%E7%BA%A2%E8%96%AF%E8%A2%AB%E6%9D%91%E6%B0%91%E5%81%B7%E6%8C%96%23&t=31&band_rank=47&Refer=top) 37162
+1. [江苏多地发布停课通知](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5%23&t=31&band_rank=50&Refer=top) 29590
+1. [白冰新剧用30万与原生家庭和解](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E6%96%B0%E5%89%A7%E7%94%A830%E4%B8%87%E4%B8%8E%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%92%8C%E8%A7%A3%23&t=31&band_rank=21&Refer=top) 19361
+1. [上海奉贤15日上午停课停学](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%89%E8%B4%A415%E6%97%A5%E4%B8%8A%E5%8D%88%E5%81%9C%E8%AF%BE%E5%81%9C%E5%AD%A6%23&t=31&band_rank=44&Refer=top) 14518
+1. [哥你好票房破2亿](https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BD%A0%E5%A5%BD%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF%23&t=31&band_rank=42&Refer=top) 14391
+1. [台风梅花三登我国](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A2%85%E8%8A%B1%E4%B8%89%E7%99%BB%E6%88%91%E5%9B%BD%23&t=31&band_rank=45&Refer=top) 11945
+1. [新生军训画八卦求雨](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%94%9F%E5%86%9B%E8%AE%AD%E7%94%BB%E5%85%AB%E5%8D%A6%E6%B1%82%E9%9B%A8%23&t=31&band_rank=50&Refer=top) 9425
 1. [王鹤棣加盟种地吧少年](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8A%A0%E7%9B%9F%E7%A7%8D%E5%9C%B0%E5%90%A7%E5%B0%91%E5%B9%B4%23&t=31&band_rank=43&Refer=top) 9288
-1. [上海奉贤15日上午停课停学](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%89%E8%B4%A415%E6%97%A5%E4%B8%8A%E5%8D%88%E5%81%9C%E8%AF%BE%E5%81%9C%E5%AD%A6%23&t=31&band_rank=44&Refer=top) 8835
-1. [台湾在福岛进口食品中检出微量辐射](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%A8%E7%A6%8F%E5%B2%9B%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E4%B8%AD%E6%A3%80%E5%87%BA%E5%BE%AE%E9%87%8F%E8%BE%90%E5%B0%84%23&t=31&band_rank=47&Refer=top) 8500
 1. [广州新房价格最高可下调20%](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E6%9C%80%E9%AB%98%E5%8F%AF%E4%B8%8B%E8%B0%8320%25%23&t=31&band_rank=49&Refer=top) 8486
-1. [江苏多地发布停课通知](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5%23&t=31&band_rank=50&Refer=top) 8477
 1. [蛋仔派对](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9&t=31&band_rank=48&Refer=top) 8091
 1. [把泰迪都整失眠了](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%B3%B0%E8%BF%AA%E9%83%BD%E6%95%B4%E5%A4%B1%E7%9C%A0%E4%BA%86%23&t=31&band_rank=49&Refer=top) 6672
 <!-- Rank End -->
