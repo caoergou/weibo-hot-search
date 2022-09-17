@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-18 02:07:34
+最后更新时间 2022-09-18 03:03:12
 
 1. [情侣间需要每天聊天吗](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E9%97%B4%E9%9C%80%E8%A6%81%E6%AF%8F%E5%A4%A9%E8%81%8A%E5%A4%A9%E5%90%97%23&t=31&band_rank=1&Refer=top) 2143548
 1. [今日中国再不是1931年的中国](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top) 1556589
@@ -78,6 +78,7 @@
 1. [台东地震浙江多地有震感](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E4%B8%9C%E5%9C%B0%E9%9C%87%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F%23&t=31&band_rank=49&Refer=top) 84255
 1. [为什么有人热衷于美黑](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=50&Refer=top) 69580
 1. [苍兰诀直播](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E7%9B%B4%E6%92%AD%23&t=31&band_rank=45&Refer=top) 64075
+1. [猴痘潜伏期最长23天](https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E6%BD%9C%E4%BC%8F%E6%9C%9F%E6%9C%80%E9%95%BF23%E5%A4%A9%23&t=31&band_rank=50&Refer=top) 18191
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
