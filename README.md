@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-25 01:12:59
+最后更新时间 2022-09-25 02:08:22
 
 1. [教育部回应降低英语教学比重建议](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 2895360
 1. [日本将用网红宣传福岛食品](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=1&Refer=top) 1035827
@@ -25,6 +25,7 @@
 1. [太空视角看丰收有多美](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%B0%E6%94%B6%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top) 809911
 1. [大妈带活鱼坐高铁被阻当场摔死鱼](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B8%A6%E6%B4%BB%E9%B1%BC%E5%9D%90%E9%AB%98%E9%93%81%E8%A2%AB%E9%98%BB%E5%BD%93%E5%9C%BA%E6%91%94%E6%AD%BB%E9%B1%BC%23&t=31&band_rank=4&Refer=top) 732655
 1. [90后女孩入职国企成37名男同事团宠](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%85%A5%E8%81%8C%E5%9B%BD%E4%BC%81%E6%88%9037%E5%90%8D%E7%94%B7%E5%90%8C%E4%BA%8B%E5%9B%A2%E5%AE%A0%23&t=31&band_rank=5&Refer=top) 500781
+1. [河南大学也曾名为中山大学](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B9%9F%E6%9B%BE%E5%90%8D%E4%B8%BA%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=11&Refer=top) 370209
 1. [你有多年后才释怀的事吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E5%A4%9A%E5%B9%B4%E5%90%8E%E6%89%8D%E9%87%8A%E6%80%80%E7%9A%84%E4%BA%8B%E5%90%97%23&t=31&band_rank=6&Refer=top) 364186
 1. [背着6000片卫生巾上大山](https://s.weibo.com/weibo?q=%23%E8%83%8C%E7%9D%806000%E7%89%87%E5%8D%AB%E7%94%9F%E5%B7%BE%E4%B8%8A%E5%A4%A7%E5%B1%B1%23&t=31&band_rank=7&Refer=top) 340831
 1. [周围的人突然都结婚了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%9B%B4%E7%9A%84%E4%BA%BA%E7%AA%81%E7%84%B6%E9%83%BD%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top) 337221
@@ -40,7 +41,6 @@
 1. [俩零零后造假币获利1.4万被判刑10年](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E9%9B%B6%E9%9B%B6%E5%90%8E%E9%80%A0%E5%81%87%E5%B8%81%E8%8E%B7%E5%88%A91.4%E4%B8%87%E8%A2%AB%E5%88%A4%E5%88%9110%E5%B9%B4%23&t=31&band_rank=17&Refer=top) 213885
 1. [85花古装剧原声率](https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E5%8F%A4%E8%A3%85%E5%89%A7%E5%8E%9F%E5%A3%B0%E7%8E%87%23&t=31&band_rank=9&Refer=top) 199133
 1. [老外也逃不出言情的千层套路](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E4%B9%9F%E9%80%83%E4%B8%8D%E5%87%BA%E8%A8%80%E6%83%85%E7%9A%84%E5%8D%83%E5%B1%82%E5%A5%97%E8%B7%AF%23&t=31&band_rank=18&Refer=top) 194009
-1. [河南大学也曾名为中山大学](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B9%9F%E6%9B%BE%E5%90%8D%E4%B8%BA%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=11&Refer=top) 193483
 1. [5岁男童挂17楼阳台邻居奋力拽回](https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E7%AB%A5%E6%8C%8217%E6%A5%BC%E9%98%B3%E5%8F%B0%E9%82%BB%E5%B1%85%E5%A5%8B%E5%8A%9B%E6%8B%BD%E5%9B%9E%23&t=31&band_rank=32&Refer=top) 191858
 1. [宋茜长文告别亲爱的生命](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%9F%E5%91%BD%23&t=31&band_rank=19&Refer=top) 191472
 1. [1年级男孩4分钟洗漱完独自晨读](https://s.weibo.com/weibo?q=%231%E5%B9%B4%E7%BA%A7%E7%94%B7%E5%AD%A94%E5%88%86%E9%92%9F%E6%B4%97%E6%BC%B1%E5%AE%8C%E7%8B%AC%E8%87%AA%E6%99%A8%E8%AF%BB%23&t=31&band_rank=20&Refer=top) 189165
@@ -56,6 +56,7 @@
 1. [情侣吵架时最想听到的话](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E6%97%B6%E6%9C%80%E6%83%B3%E5%90%AC%E5%88%B0%E7%9A%84%E8%AF%9D%23&t=31&band_rank=31&Refer=top) 108391
 1. [泰国的海底捞更社死](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%9A%84%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9B%B4%E7%A4%BE%E6%AD%BB%23&t=31&band_rank=33&Refer=top) 104050
 1. [周深 可爱](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%20%E5%8F%AF%E7%88%B1&t=31&band_rank=34&Refer=top) 94695
+1. [学校回应女学生月考6科霸榜](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A6%E7%94%9F%E6%9C%88%E8%80%836%E7%A7%91%E9%9C%B8%E6%A6%9C%23&t=31&band_rank=11&Refer=top) 94429
 1. [现实版莲莲有鱼](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%AE%9E%E7%89%88%E8%8E%B2%E8%8E%B2%E6%9C%89%E9%B1%BC%23&t=31&band_rank=40&Refer=top) 94407
 1. [上海明确户外招牌可展示个性创意](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%98%8E%E7%A1%AE%E6%88%B7%E5%A4%96%E6%8B%9B%E7%89%8C%E5%8F%AF%E5%B1%95%E7%A4%BA%E4%B8%AA%E6%80%A7%E5%88%9B%E6%84%8F%23&t=31&band_rank=35&Refer=top) 93482
 1. [永乐大典到底有多大](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E4%B9%90%E5%A4%A7%E5%85%B8%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=36&Refer=top) 89598
@@ -73,6 +74,8 @@
 1. [木星将与地球进行59年来最亲密接触](https://s.weibo.com/weibo?q=%23%E6%9C%A8%E6%98%9F%E5%B0%86%E4%B8%8E%E5%9C%B0%E7%90%83%E8%BF%9B%E8%A1%8C59%E5%B9%B4%E6%9D%A5%E6%9C%80%E4%BA%B2%E5%AF%86%E6%8E%A5%E8%A7%A6%23&t=31&band_rank=49&Refer=top) 67696
 1. [清融的沈梦溪](https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%E7%9A%84%E6%B2%88%E6%A2%A6%E6%BA%AA%23&t=31&band_rank=50&Refer=top) 64996
 1. [河南大学110岁了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6110%E5%B2%81%E4%BA%86%23&t=31&band_rank=49&Refer=top) 31974
+1. [爱好真的能当饭吃吗](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23&t=31&band_rank=46&Refer=top) 19207
+1. [中学教室后排设蹲班制老师引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 16086
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
