@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-25 05:03:11
+最后更新时间 2022-09-25 06:05:11
 
 1. [教育部回应降低英语教学比重建议](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 2895360
 1. [日本将用网红宣传福岛食品](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=1&Refer=top) 1035827
@@ -73,19 +73,25 @@
 1. [李荣浩范丞丞节奏游戏一次过](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%8A%82%E5%A5%8F%E6%B8%B8%E6%88%8F%E4%B8%80%E6%AC%A1%E8%BF%87%23&t=31&band_rank=48&Refer=top) 69680
 1. [木星将与地球进行59年来最亲密接触](https://s.weibo.com/weibo?q=%23%E6%9C%A8%E6%98%9F%E5%B0%86%E4%B8%8E%E5%9C%B0%E7%90%83%E8%BF%9B%E8%A1%8C59%E5%B9%B4%E6%9D%A5%E6%9C%80%E4%BA%B2%E5%AF%86%E6%8E%A5%E8%A7%A6%23&t=31&band_rank=49&Refer=top) 67696
 1. [清融的沈梦溪](https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%E7%9A%84%E6%B2%88%E6%A2%A6%E6%BA%AA%23&t=31&band_rank=50&Refer=top) 64996
+1. [大妈连续10月小区吹乐器扰民](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%BF%9E%E7%BB%AD10%E6%9C%88%E5%B0%8F%E5%8C%BA%E5%90%B9%E4%B9%90%E5%99%A8%E6%89%B0%E6%B0%91%23&t=31&band_rank=23&Refer=top) 37282
+1. [美国里根号航母战斗群抵韩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E6%8A%B5%E9%9F%A9%23&t=31&band_rank=21&Refer=top) 34864
 1. [河南大学110岁了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6110%E5%B2%81%E4%BA%86%23&t=31&band_rank=49&Refer=top) 31974
+1. [地铁西安站将于2022年9月25日开通运营](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E8%A5%BF%E5%AE%89%E7%AB%99%E5%B0%86%E4%BA%8E2022%E5%B9%B49%E6%9C%8825%E6%97%A5%E5%BC%80%E9%80%9A%E8%BF%90%E8%90%A5&t=31&band_rank=15&Refer=top) 31655
 1. [中学教室后排设蹲班制老师引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 30429
 1. [植物肉企业股价暴跌76%](https://s.weibo.com/weibo?q=%23%E6%A4%8D%E7%89%A9%E8%82%89%E4%BC%81%E4%B8%9A%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C76%25%23&t=31&band_rank=26&Refer=top) 22001
 1. [爱好真的能当饭吃吗](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23&t=31&band_rank=46&Refer=top) 19207
-1. [地铁西安站将于2022年9月25日开通运营](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E8%A5%BF%E5%AE%89%E7%AB%99%E5%B0%86%E4%BA%8E2022%E5%B9%B49%E6%9C%8825%E6%97%A5%E5%BC%80%E9%80%9A%E8%BF%90%E8%90%A5&t=31&band_rank=15&Refer=top) 18523
-1. [美国里根号航母战斗群抵韩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E6%8A%B5%E9%9F%A9%23&t=31&band_rank=21&Refer=top) 16676
-1. [大妈连续10月小区吹乐器扰民](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%BF%9E%E7%BB%AD10%E6%9C%88%E5%B0%8F%E5%8C%BA%E5%90%B9%E4%B9%90%E5%99%A8%E6%89%B0%E6%B0%91%23&t=31&band_rank=23&Refer=top) 15498
-1. [英足总对C罗提出指控](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%B3%E6%80%BB%E5%AF%B9C%E7%BD%97%E6%8F%90%E5%87%BA%E6%8C%87%E6%8E%A7%23&t=31&band_rank=45&Refer=top) 7598
+1. [英足总对C罗提出指控](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%B3%E6%80%BB%E5%AF%B9C%E7%BD%97%E6%8F%90%E5%87%BA%E6%8C%87%E6%8E%A7%23&t=31&band_rank=45&Refer=top) 15768
+1. [日本政府买入大笔日元以提振汇率](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E4%B9%B0%E5%85%A5%E5%A4%A7%E7%AC%94%E6%97%A5%E5%85%83%E4%BB%A5%E6%8F%90%E6%8C%AF%E6%B1%87%E7%8E%87%23&t=31&band_rank=44&Refer=top) 8903
 1. [男童地铁内攀爬家长不制止反录像](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E5%9C%B0%E9%93%81%E5%86%85%E6%94%80%E7%88%AC%E5%AE%B6%E9%95%BF%E4%B8%8D%E5%88%B6%E6%AD%A2%E5%8F%8D%E5%BD%95%E5%83%8F%23&t=31&band_rank=47&Refer=top) 7595
 1. [开着大船在深远海养鱼是什么体验](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%9D%80%E5%A4%A7%E8%88%B9%E5%9C%A8%E6%B7%B1%E8%BF%9C%E6%B5%B7%E5%85%BB%E9%B1%BC%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=48&Refer=top) 7593
 1. [大熊猫自拍和他拍差别好大](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%87%AA%E6%8B%8D%E5%92%8C%E4%BB%96%E6%8B%8D%E5%B7%AE%E5%88%AB%E5%A5%BD%E5%A4%A7&t=31&band_rank=50&Refer=top) 7590
 1. [张云龙两毛换头特效笑疯哥哥们](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E4%B8%A4%E6%AF%9B%E6%8D%A2%E5%A4%B4%E7%89%B9%E6%95%88%E7%AC%91%E7%96%AF%E5%93%A5%E5%93%A5%E4%BB%AC%23&t=31&band_rank=50&Refer=top) 7590
 1. [王毅会见美国务卿布林肯](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%23&t=31&band_rank=49&Refer=top) 6756
+1. [纳达尔退出拉沃尔杯](https://s.weibo.com/weibo?q=%23%E7%BA%B3%E8%BE%BE%E5%B0%94%E9%80%80%E5%87%BA%E6%8B%89%E6%B2%83%E5%B0%94%E6%9D%AF%23&t=31&band_rank=46&Refer=top) 5318
+1. [5岁脑瘫男孩为上学苦练走路多年](https://s.weibo.com/weibo?q=%235%E5%B2%81%E8%84%91%E7%98%AB%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%B8%8A%E5%AD%A6%E8%8B%A6%E7%BB%83%E8%B5%B0%E8%B7%AF%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=47&Refer=top) 5313
+1. [51岁女子考入大学](https://s.weibo.com/weibo?q=%2351%E5%B2%81%E5%A5%B3%E5%AD%90%E8%80%83%E5%85%A5%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=48&Refer=top) 5293
+1. [S12战队合照](https://s.weibo.com/weibo?q=%23S12%E6%88%98%E9%98%9F%E5%90%88%E7%85%A7%23&t=31&band_rank=49&Refer=top) 5011
+1. [张帅无缘WTA500东京站决赛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B8%85%E6%97%A0%E7%BC%98WTA500%E4%B8%9C%E4%BA%AC%E7%AB%99%E5%86%B3%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 4777
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
