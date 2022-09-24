@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-09-25 03:04:41
+最后更新时间 2022-09-25 04:06:41
 
 1. [教育部回应降低英语教学比重建议](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 2895360
 1. [日本将用网红宣传福岛食品](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=1&Refer=top) 1035827
@@ -76,6 +76,9 @@
 1. [河南大学110岁了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6110%E5%B2%81%E4%BA%86%23&t=31&band_rank=49&Refer=top) 31974
 1. [中学教室后排设蹲班制老师引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 30429
 1. [爱好真的能当饭吃吗](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23&t=31&band_rank=46&Refer=top) 19207
+1. [植物肉企业股价暴跌76%](https://s.weibo.com/weibo?q=%23%E6%A4%8D%E7%89%A9%E8%82%89%E4%BC%81%E4%B8%9A%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C76%25%23&t=31&band_rank=26&Refer=top) 16262
+1. [王毅会见美国务卿布林肯](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%B8%83%E6%9E%97%E8%82%AF%23&t=31&band_rank=49&Refer=top) 6756
+1. [大熊猫自拍和他拍差别好大](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%87%AA%E6%8B%8D%E5%92%8C%E4%BB%96%E6%8B%8D%E5%B7%AE%E5%88%AB%E5%A5%BD%E5%A4%A7&t=31&band_rank=50&Refer=top) 6690
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
