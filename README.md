@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-03 02:07:58
+最后更新时间 2022-10-03 03:08:05
 
 1. [糊但好看的剧](https://s.weibo.com/weibo?q=%23%E7%B3%8A%E4%BD%86%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%89%A7%23&t=31&band_rank=1&Refer=top) 1532774
 1. [C罗](https://s.weibo.com/weibo?q=%23C%E7%BD%97%23&t=31&band_rank=2&Refer=top) 1242327
@@ -71,6 +71,7 @@
 1. [成毅周亦安振作起来](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%91%A8%E4%BA%A6%E5%AE%89%E6%8C%AF%E4%BD%9C%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=49&Refer=top) 63362
 1. [马嘉祺感谢杨坤](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%84%9F%E8%B0%A2%E6%9D%A8%E5%9D%A4%23&t=31&band_rank=22&Refer=top) 62117
 1. [曼联半场0比4落后](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%90%BD%E5%90%8E%23&t=31&band_rank=50&Refer=top) 40686
+1. [尼日利亚考虑买C919](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23&t=31&band_rank=21&Refer=top) 35156
 1. [陈哲远综艺之神降临](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%BB%BC%E8%89%BA%E4%B9%8B%E7%A5%9E%E9%99%8D%E4%B8%B4%23&t=31&band_rank=45&Refer=top) 33725
 <!-- Rank End -->
 
