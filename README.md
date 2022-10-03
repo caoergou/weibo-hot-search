@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-04 05:06:24
+最后更新时间 2022-10-04 06:07:12
 
 1. [02年女生成全校最小博士生](https://s.weibo.com/weibo?q=%2302%E5%B9%B4%E5%A5%B3%E7%94%9F%E6%88%90%E5%85%A8%E6%A0%A1%E6%9C%80%E5%B0%8F%E5%8D%9A%E5%A3%AB%E7%94%9F%23&t=31&band_rank=1&Refer=top) 1136168
 1. [体重减不下来有3个原因](https://s.weibo.com/weibo?q=%23%E4%BD%93%E9%87%8D%E5%87%8F%E4%B8%8D%E4%B8%8B%E6%9D%A5%E6%9C%893%E4%B8%AA%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=2&Refer=top) 632825
@@ -45,6 +45,7 @@
 1. [原来小狗也是变脸大师](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E7%8B%97%E4%B9%9F%E6%98%AF%E5%8F%98%E8%84%B8%E5%A4%A7%E5%B8%88%23&t=31&band_rank=24&Refer=top) 109381
 1. [男子高铁遇老人独带娃主动帮抱](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E9%81%87%E8%80%81%E4%BA%BA%E7%8B%AC%E5%B8%A6%E5%A8%83%E4%B8%BB%E5%8A%A8%E5%B8%AE%E6%8A%B1%23&t=31&band_rank=25&Refer=top) 108529
 1. [陈都灵莲花楼杀青照](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%9D%80%E9%9D%92%E7%85%A7%23&t=31&band_rank=26&Refer=top) 107776
+1. [北京10月4日最低温仅4摄氏度](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%884%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E4%BB%854%E6%91%84%E6%B0%8F%E5%BA%A6%23&t=31&band_rank=15&Refer=top) 107727
 1. [小车礼让婚车把自己倒进沟里](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%BD%A6%E7%A4%BC%E8%AE%A9%E5%A9%9A%E8%BD%A6%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%80%92%E8%BF%9B%E6%B2%9F%E9%87%8C%23&t=31&band_rank=27&Refer=top) 100706
 1. [这是轻功吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%BD%BB%E5%8A%9F%E5%90%A7%23&t=31&band_rank=14&Refer=top) 98693
 1. [医保谈判代表说自己克制着高兴心情](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%85%8B%E5%88%B6%E7%9D%80%E9%AB%98%E5%85%B4%E5%BF%83%E6%83%85%23&t=31&band_rank=28&Refer=top) 98616
@@ -72,20 +73,26 @@
 1. [MRC夺冠](https://s.weibo.com/weibo?q=%23MRC%E5%A4%BA%E5%86%A0%23&t=31&band_rank=48&Refer=top) 45191
 1. [记得存点话留到8号上班讲](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E5%BE%97%E5%AD%98%E7%82%B9%E8%AF%9D%E7%95%99%E5%88%B08%E5%8F%B7%E4%B8%8A%E7%8F%AD%E8%AE%B2%23&t=31&band_rank=45&Refer=top) 40698
 1. [女子落水高校男生害怕仍勇敢下水](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%90%BD%E6%B0%B4%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E5%AE%B3%E6%80%95%E4%BB%8D%E5%8B%87%E6%95%A2%E4%B8%8B%E6%B0%B4%23&t=31&band_rank=49&Refer=top) 38862
+1. [英国商超禁止摆放垃圾食品在显眼处](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%95%86%E8%B6%85%E7%A6%81%E6%AD%A2%E6%91%86%E6%94%BE%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E5%9C%A8%E6%98%BE%E7%9C%BC%E5%A4%84%23&t=31&band_rank=12&Refer=top) 35667
+1. [河北启动省地震灾害Ⅳ级应急响应](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%90%AF%E5%8A%A8%E7%9C%81%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%E2%85%A3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&t=31&band_rank=25&Refer=top) 35607
 1. [RNG状态](https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23&t=31&band_rank=17&Refer=top) 34355
 1. [新婚夜护士新娘给新郎扎针输液](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A9%9A%E5%A4%9C%E6%8A%A4%E5%A3%AB%E6%96%B0%E5%A8%98%E7%BB%99%E6%96%B0%E9%83%8E%E6%89%8E%E9%92%88%E8%BE%93%E6%B6%B2%23&t=31&band_rank=50&Refer=top) 31897
+1. [绿皮火车也能有淋浴酒吧KTV](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B9%9F%E8%83%BD%E6%9C%89%E6%B7%8B%E6%B5%B4%E9%85%92%E5%90%A7KTV%23&t=31&band_rank=20&Refer=top) 26236
 1. [乌云遇皎月还原度](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E4%BA%91%E9%81%87%E7%9A%8E%E6%9C%88%E8%BF%98%E5%8E%9F%E5%BA%A6%23&t=31&band_rank=43&Refer=top) 22105
-1. [北京10月4日最低温仅4摄氏度](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%884%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E4%BB%854%E6%91%84%E6%B0%8F%E5%BA%A6%23&t=31&band_rank=15&Refer=top) 18383
 1. [关晓彤演的社区工作者](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%BC%94%E7%9A%84%E7%A4%BE%E5%8C%BA%E5%B7%A5%E4%BD%9C%E8%80%85%23&t=31&band_rank=50&Refer=top) 16193
-1. [河北启动省地震灾害Ⅳ级应急响应](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%90%AF%E5%8A%A8%E7%9C%81%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%E2%85%A3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&t=31&band_rank=25&Refer=top) 12945
+1. [2022年诺贝尔生理学或医学奖揭晓](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23&t=31&band_rank=50&Refer=top) 14493
 1. [永康白云水库附近发生山火](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%BA%B7%E7%99%BD%E4%BA%91%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%23&t=31&band_rank=46&Refer=top) 9874
-1. [2022年诺贝尔生理学或医学奖揭晓](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23&t=31&band_rank=50&Refer=top) 9710
 1. [小学生运动会3天捡瓶子送保洁阿姨](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%90%E5%8A%A8%E4%BC%9A3%E5%A4%A9%E6%8D%A1%E7%93%B6%E5%AD%90%E9%80%81%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%23&t=31&band_rank=48&Refer=top) 7292
 1. [女子悬挂天桥桥上桥下众人齐救援](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%82%AC%E6%8C%82%E5%A4%A9%E6%A1%A5%E6%A1%A5%E4%B8%8A%E6%A1%A5%E4%B8%8B%E4%BC%97%E4%BA%BA%E9%BD%90%E6%95%91%E6%8F%B4%23&t=31&band_rank=50&Refer=top) 7258
+1. [阿德莱德36人vs太阳](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B736%E4%BA%BAvs%E5%A4%AA%E9%98%B3%23&t=31&band_rank=43&Refer=top) 6286
+1. [ISG战胜IW](https://s.weibo.com/weibo?q=%23ISG%E6%88%98%E8%83%9CIW%23&t=31&band_rank=44&Refer=top) 6142
 1. [2022年诺贝尔奖今起公布](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E4%BB%8A%E8%B5%B7%E5%85%AC%E5%B8%83%23&t=31&band_rank=47&Refer=top) 4945
 1. [河南将迎入冬式降温](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B0%86%E8%BF%8E%E5%85%A5%E5%86%AC%E5%BC%8F%E9%99%8D%E6%B8%A9%23&t=31&band_rank=48&Refer=top) 4877
 1. [塔克拉玛干沙漠湖泊引水鸟停留](https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E6%B9%96%E6%B3%8A%E5%BC%95%E6%B0%B4%E9%B8%9F%E5%81%9C%E7%95%99%23&t=31&band_rank=49&Refer=top) 4823
 1. [飞盘飞出圈](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E7%9B%98%E9%A3%9E%E5%87%BA%E5%9C%88%23&t=31&band_rank=50&Refer=top) 4822
+1. [杰伦布朗季前赛24分](https://s.weibo.com/weibo?q=%23%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E5%AD%A3%E5%89%8D%E8%B5%9B24%E5%88%86%23&t=31&band_rank=47&Refer=top) 4266
+1. [军训拉歌还得是音乐学院](https://s.weibo.com/weibo?q=%23%E5%86%9B%E8%AE%AD%E6%8B%89%E6%AD%8C%E8%BF%98%E5%BE%97%E6%98%AF%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%23&t=31&band_rank=48&Refer=top) 3558
+1. [F1新加坡大奖赛佩雷兹冠军](https://s.weibo.com/weibo?q=%23F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%BD%A9%E9%9B%B7%E5%85%B9%E5%86%A0%E5%86%9B%23&t=31&band_rank=49&Refer=top) 3538
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
