@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-09 03:07:48
+最后更新时间 2022-10-09 04:07:09
 
 1. [椰树集团直播带货风格引争议](https://s.weibo.com/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E9%A3%8E%E6%A0%BC%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 1237609
 1. [市监局回应消费930.9元遭反向抹零](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E6%B6%88%E8%B4%B9930.9%E5%85%83%E9%81%AD%E5%8F%8D%E5%90%91%E6%8A%B9%E9%9B%B6%23&t=31&band_rank=2&Refer=top) 757066
@@ -77,7 +77,11 @@
 1. [VogueWorld展览开幕之夜](https://s.weibo.com/weibo?q=%23VogueWorld%E5%B1%95%E8%A7%88%E5%BC%80%E5%B9%95%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=45&Refer=top) 37046
 1. [俄罗斯暂停所有前往克里米亚列车](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9A%82%E5%81%9C%E6%89%80%E6%9C%89%E5%89%8D%E5%BE%80%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%88%97%E8%BD%A6%23&t=31&band_rank=21&Refer=top) 27016
 1. [中方回应美对芯片实施新出口管制](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E8%8A%AF%E7%89%87%E5%AE%9E%E6%96%BD%E6%96%B0%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%23&t=31&band_rank=23&Refer=top) 23451
+1. [明年中秋国庆假重合有望连休9天](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E9%87%8D%E5%90%88%E6%9C%89%E6%9C%9B%E8%BF%9E%E4%BC%919%E5%A4%A9%23&t=31&band_rank=12&Refer=top) 23442
+1. [医学生的学费交得真值](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9A%84%E5%AD%A6%E8%B4%B9%E4%BA%A4%E5%BE%97%E7%9C%9F%E5%80%BC%23&t=31&band_rank=29&Refer=top) 15592
+1. [匍匐前进的猫猫虫](https://s.weibo.com/weibo?q=%23%E5%8C%8D%E5%8C%90%E5%89%8D%E8%BF%9B%E7%9A%84%E7%8C%AB%E7%8C%AB%E8%99%AB%23&t=31&band_rank=36&Refer=top) 13812
 1. [还以为是野生大熊猫](https://s.weibo.com/weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=49&Refer=top) 10885
+1. [日本外汇储备大幅下降](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E5%A4%A7%E5%B9%85%E4%B8%8B%E9%99%8D%23&t=31&band_rank=45&Refer=top) 10635
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
