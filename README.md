@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-12 01:21:37
+最后更新时间 2022-10-12 02:11:34
 
 1. [老公误把酵母粉当感冒药给老婆喝](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E8%AF%AF%E6%8A%8A%E9%85%B5%E6%AF%8D%E7%B2%89%E5%BD%93%E6%84%9F%E5%86%92%E8%8D%AF%E7%BB%99%E8%80%81%E5%A9%86%E5%96%9D%23&t=31&band_rank=1&Refer=top) 905238
 1. [女婿给岳父塞5千回家发现1万红包](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%BF%E7%BB%99%E5%B2%B3%E7%88%B6%E5%A1%9E5%E5%8D%83%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B01%E4%B8%87%E7%BA%A2%E5%8C%85%23&t=31&band_rank=2&Refer=top) 677110
@@ -70,12 +70,13 @@
 1. [李龙馥143CASE直拍](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%BE%99%E9%A6%A5143CASE%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=26&Refer=top) 67693
 1. [徐璐被绑架戏份感染力好强](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%92%90%E8%A2%AB%E7%BB%91%E6%9E%B6%E6%88%8F%E4%BB%BD%E6%84%9F%E6%9F%93%E5%8A%9B%E5%A5%BD%E5%BC%BA%23&t=31&band_rank=47&Refer=top) 66137
 1. [地理老师都气笑了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%86%E8%80%81%E5%B8%88%E9%83%BD%E6%B0%94%E7%AC%91%E4%BA%86%23&t=31&band_rank=27&Refer=top) 66125
+1. [谁让你们这么教中文的](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%95%99%E4%B8%AD%E6%96%87%E7%9A%84%23&t=31&band_rank=28&Refer=top) 65892
 1. [这就是风情万种吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E9%A3%8E%E6%83%85%E4%B8%87%E7%A7%8D%E5%90%A7%23&t=31&band_rank=48&Refer=top) 64507
-1. [谁让你们这么教中文的](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%95%99%E4%B8%AD%E6%96%87%E7%9A%84%23&t=31&band_rank=28&Refer=top) 63850
 1. [谁能不心动一个人的快乐](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E4%B8%8D%E5%BF%83%E5%8A%A8%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=49&Refer=top) 61632
 1. [6名男生就地取材宿舍内健身](https://s.weibo.com/weibo?q=%236%E5%90%8D%E7%94%B7%E7%94%9F%E5%B0%B1%E5%9C%B0%E5%8F%96%E6%9D%90%E5%AE%BF%E8%88%8D%E5%86%85%E5%81%A5%E8%BA%AB%23&t=31&band_rank=50&Refer=top) 59208
-1. [曲江通报小学学生坠亡事件](https://s.weibo.com/weibo?q=%E6%9B%B2%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6&t=31&band_rank=45&Refer=top) 36742
+1. [曲江通报小学学生坠亡事件](https://s.weibo.com/weibo?q=%E6%9B%B2%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6&t=31&band_rank=45&Refer=top) 41025
 1. [两个人的小森林](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%23&t=31&band_rank=47&Refer=top) 35800
+1. [美军舰被拍到在北溪管道泄漏处附近巡航](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%9C%A8%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%A4%84%E9%99%84%E8%BF%91%E5%B7%A1%E8%88%AA%23&t=31&band_rank=50&Refer=top) 9691
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
