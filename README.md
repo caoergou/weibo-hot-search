@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-14 01:30:02
+最后更新时间 2022-10-14 02:16:24
 
 1. [工信部通报38款APP侵害用户权益](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23&t=31&band_rank=1&Refer=top) 282100
 1. [苏明玉受的气姚晨这次还回来了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%98%8E%E7%8E%89%E5%8F%97%E7%9A%84%E6%B0%94%E5%A7%9A%E6%99%A8%E8%BF%99%E6%AC%A1%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top) 221864
@@ -47,6 +47,7 @@
 1. [冬天需要这个手机壳](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E9%9C%80%E8%A6%81%E8%BF%99%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=26&Refer=top) 43497
 1. [美国9月CPI同比上涨8.2%](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD9%E6%9C%88CPI%E5%90%8C%E6%AF%94%E4%B8%8A%E6%B6%A88.2%25%23&t=31&band_rank=27&Refer=top) 42164
 1. [那些一个字的歌名有多绝](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E4%B8%80%E4%B8%AA%E5%AD%97%E7%9A%84%E6%AD%8C%E5%90%8D%E6%9C%89%E5%A4%9A%E7%BB%9D%23&t=31&band_rank=28&Refer=top) 38245
+1. [沈小婷wefresh武术镜头](https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7wefresh%E6%AD%A6%E6%9C%AF%E9%95%9C%E5%A4%B4%23&t=31&band_rank=18&Refer=top) 37965
 1. [81岁奶奶能连续跳绳1000个](https://s.weibo.com/weibo?q=%2381%E5%B2%81%E5%A5%B6%E5%A5%B6%E8%83%BD%E8%BF%9E%E7%BB%AD%E8%B7%B3%E7%BB%B31000%E4%B8%AA%23&t=31&band_rank=29&Refer=top) 36673
 1. [全班43人帮9岁听障女孩练习说话](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD43%E4%BA%BA%E5%B8%AE9%E5%B2%81%E5%90%AC%E9%9A%9C%E5%A5%B3%E5%AD%A9%E7%BB%83%E4%B9%A0%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=30&Refer=top) 35042
 1. [你心中的网剧天花板](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BF%83%E4%B8%AD%E7%9A%84%E7%BD%91%E5%89%A7%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=31&Refer=top) 34343
@@ -56,6 +57,7 @@
 1. [首次证明人脑细胞在体外也有智力](https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%AC%A1%E8%AF%81%E6%98%8E%E4%BA%BA%E8%84%91%E7%BB%86%E8%83%9E%E5%9C%A8%E4%BD%93%E5%A4%96%E4%B9%9F%E6%9C%89%E6%99%BA%E5%8A%9B%23&t=31&band_rank=35&Refer=top) 31495
 1. [老板回应4碗粿条545元被质疑天价](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%944%E7%A2%97%E7%B2%BF%E6%9D%A1545%E5%85%83%E8%A2%AB%E8%B4%A8%E7%96%91%E5%A4%A9%E4%BB%B7%23&t=31&band_rank=36&Refer=top) 31267
 1. [长相思主创核心卖点是主演杨紫](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B8%BB%E5%88%9B%E6%A0%B8%E5%BF%83%E5%8D%96%E7%82%B9%E6%98%AF%E4%B8%BB%E6%BC%94%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=37&Refer=top) 31162
+1. [原来狗看电视也舍不得睡觉](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8B%97%E7%9C%8B%E7%94%B5%E8%A7%86%E4%B9%9F%E8%88%8D%E4%B8%8D%E5%BE%97%E7%9D%A1%E8%A7%89%23&t=31&band_rank=24&Refer=top) 29826
 1. [周深和国风歌曲的适配度](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%92%8C%E5%9B%BD%E9%A3%8E%E6%AD%8C%E6%9B%B2%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23&t=31&band_rank=38&Refer=top) 27846
 1. [原来口红色号可以这么选](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%A3%E7%BA%A2%E8%89%B2%E5%8F%B7%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E9%80%89%23&t=31&band_rank=39&Refer=top) 27021
 1. [深圳晚霞](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%99%9A%E9%9C%9E%23&t=31&band_rank=40&Refer=top) 26598
