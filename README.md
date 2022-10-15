@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-16 03:08:25
+最后更新时间 2022-10-16 05:04:59
 
 1. [新一届中央政治局常委将同中外记者见面](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%B0%86%E5%90%8C%E4%B8%AD%E5%A4%96%E8%AE%B0%E8%80%85%E8%A7%81%E9%9D%A2%23&t=31&band_rank=1&Refer=top) 146898
 1. [二十大发言人回应疫情防控](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=2&Refer=top) 125603
@@ -64,16 +64,24 @@
 1. [交警30分钟送断指孩子就医](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=32&Refer=top) 17278
 1. [中国U17女足0比2哥伦比亚U17](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B30%E6%AF%942%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9AU17%23&t=31&band_rank=43&Refer=top) 16778
 1. [二十大会期确定](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BC%9A%E6%9C%9F%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=44&Refer=top) 16547
+1. [美国再提供7.25亿美元对乌军事援助](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=46&Refer=top) 16499
 1. [广东男篮vs深圳男篮](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AEvs%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AE%23&t=31&band_rank=45&Refer=top) 15089
 1. [顾全32分](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%85%A832%E5%88%86%23&t=31&band_rank=46&Refer=top) 14215
 1. [京城十二时辰2收官](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B02%E6%94%B6%E5%AE%98%23&t=31&band_rank=47&Refer=top) 13497
 1. [将盆栽越坐越歪的猫咪](https://s.weibo.com/weibo?q=%23%E5%B0%86%E7%9B%86%E6%A0%BD%E8%B6%8A%E5%9D%90%E8%B6%8A%E6%AD%AA%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=48&Refer=top) 13172
+1. [男子躲高铁厕所抽烟被行拘5日](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23&t=31&band_rank=22&Refer=top) 12565
 1. [党的二十大举行预备会议](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BE%E8%A1%8C%E9%A2%84%E5%A4%87%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=49&Refer=top) 9913
+1. [南疆军区无人机空中侦察首次实飞](https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23&t=31&band_rank=33&Refer=top) 9422
 1. [68岁重庆嬢嬢把钩钩针做成了非遗](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E9%87%8D%E5%BA%86%E5%AC%A2%E5%AC%A2%E6%8A%8A%E9%92%A9%E9%92%A9%E9%92%88%E5%81%9A%E6%88%90%E4%BA%86%E9%9D%9E%E9%81%97%23&t=31&band_rank=50&Refer=top) 9376
-1. [美国再提供7.25亿美元对乌军事援助](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%8F%90%E4%BE%9B7.25%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=46&Refer=top) 7326
+1. [乘客公交车上晕倒女护士跪地抢救](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%99%95%E5%80%92%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%91%23&t=31&band_rank=35&Refer=top) 9070
+1. [库里庆祝后滑倒](https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BA%86%E7%A5%9D%E5%90%8E%E6%BB%91%E5%80%92%23&t=31&band_rank=39&Refer=top) 8169
 1. [二十大代表资格审查委员会成员名单](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%90%E5%91%98%E5%90%8D%E5%8D%95%23&t=31&band_rank=48&Refer=top) 6527
 1. [别再辜负你的细胞了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%BE%9C%E8%B4%9F%E4%BD%A0%E7%9A%84%E7%BB%86%E8%83%9E%E4%BA%86%23&t=31&band_rank=49&Refer=top) 5989
 1. [见过最会享受的狗狗](https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E4%BC%9A%E4%BA%AB%E5%8F%97%E7%9A%84%E7%8B%97%E7%8B%97%23&t=31&band_rank=50&Refer=top) 5865
+1. [高校组织采摘活动让学生体验秋收](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%BB%84%E7%BB%87%E9%87%87%E6%91%98%E6%B4%BB%E5%8A%A8%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%BD%93%E9%AA%8C%E7%A7%8B%E6%94%B6%23&t=31&band_rank=45&Refer=top) 4883
+1. [格威踩爆球鞋](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23&t=31&band_rank=48&Refer=top) 4841
+1. [施罗德手指受伤](https://s.weibo.com/weibo?q=%23%E6%96%BD%E7%BD%97%E5%BE%B7%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%23&t=31&band_rank=49&Refer=top) 4833
+1. [DK战胜EG](https://s.weibo.com/weibo?q=%23DK%E6%88%98%E8%83%9CEG%23&t=31&band_rank=50&Refer=top) 4815
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
