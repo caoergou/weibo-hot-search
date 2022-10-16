@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-16 17:10:04
+最后更新时间 2022-10-16 18:06:46
 
 1. [二十大](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%23&t=31&band_rank=4&Refer=top) 5970681
 1. [解决台湾问题是中国人自己的事](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%23&t=31&band_rank=1&Refer=top) 2341736
@@ -129,7 +129,11 @@
 1. [小学生撞车留纸条道歉司机免赔偿](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%92%9E%E8%BD%A6%E7%95%99%E7%BA%B8%E6%9D%A1%E9%81%93%E6%AD%89%E5%8F%B8%E6%9C%BA%E5%85%8D%E8%B5%94%E5%81%BF%23&t=31&band_rank=31&Refer=top) 50492
 1. [师太摸脸蹭头安抚咬她手的独臂猴](https://s.weibo.com/weibo?q=%23%E5%B8%88%E5%A4%AA%E6%91%B8%E8%84%B8%E8%B9%AD%E5%A4%B4%E5%AE%89%E6%8A%9A%E5%92%AC%E5%A5%B9%E6%89%8B%E7%9A%84%E7%8B%AC%E8%87%82%E7%8C%B4%23&t=31&band_rank=42&Refer=top) 50456
 1. [将盆栽越坐越歪的猫咪](https://s.weibo.com/weibo?q=%23%E5%B0%86%E7%9B%86%E6%A0%BD%E8%B6%8A%E5%9D%90%E8%B6%8A%E6%AD%AA%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=48&Refer=top) 46394
+1. [顾客以为付款没成功亲自送来现金](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%BB%A5%E4%B8%BA%E4%BB%98%E6%AC%BE%E6%B2%A1%E6%88%90%E5%8A%9F%E4%BA%B2%E8%87%AA%E9%80%81%E6%9D%A5%E7%8E%B0%E9%87%91%23&t=31&band_rank=17&Refer=top) 46359
+1. [中国射击队世锦赛再夺两金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%84%E5%87%BB%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E5%86%8D%E5%A4%BA%E4%B8%A4%E9%87%91%23&t=31&band_rank=28&Refer=top) 46256
+1. [这样调滤镜真的很出片](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E8%B0%83%E6%BB%A4%E9%95%9C%E7%9C%9F%E7%9A%84%E5%BE%88%E5%87%BA%E7%89%87%23&t=31&band_rank=33&Refer=top) 46204
 1. [摇滚狂花](https://s.weibo.com/weibo?q=%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1&t=31&band_rank=32&Refer=top) 45596
+1. [台风纳沙正逐步移入南海](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%BA%B3%E6%B2%99%E6%AD%A3%E9%80%90%E6%AD%A5%E7%A7%BB%E5%85%A5%E5%8D%97%E6%B5%B7%23&t=31&band_rank=50&Refer=top) 44873
 1. [未来50年国际关系中最重要的事](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A550%E5%B9%B4%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%23&t=31&band_rank=20&Refer=top) 35901
 1. [安宥真lovedive舞台](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%AE%A5%E7%9C%9Flovedive%E8%88%9E%E5%8F%B0%23&t=31&band_rank=26&Refer=top) 33732
 1. [LGD](https://s.weibo.com/weibo?q=LGD&t=31&band_rank=27&Refer=top) 33416
