@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-16 15:12:47
+最后更新时间 2022-10-16 16:09:11
 
 1. [二十大](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%23&t=31&band_rank=4&Refer=top) 5970681
 1. [解决台湾问题是中国人自己的事](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%23&t=31&band_rank=1&Refer=top) 2341736
@@ -35,7 +35,7 @@
 1. [党代表通道现场直播](https://s.weibo.com/weibo?q=%23%E5%85%9A%E4%BB%A3%E8%A1%A8%E9%80%9A%E9%81%93%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%23&t=31&band_rank=5&Refer=top) 829717
 1. [二十大开幕会](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%BC%80%E5%B9%95%E4%BC%9A%23&t=31&band_rank=6&Refer=top) 828349
 1. [二十大发言人回应疫情防控](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=2&Refer=top) 825487
-1. [中国式现代化的含义](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E5%90%AB%E4%B9%89%23&t=31&band_rank=48&Refer=top) 760015
+1. [中国式现代化的含义](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E5%90%AB%E4%B9%89%23&t=31&band_rank=48&Refer=top) 807820
 1. [故宫博物院院长提出四大愿景](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E9%99%A2%E9%95%BF%E6%8F%90%E5%87%BA%E5%9B%9B%E5%A4%A7%E6%84%BF%E6%99%AF%23&t=31&band_rank=8&Refer=top) 673644
 1. [我国经济实力实现历史性跃升](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%AE%9E%E5%8A%9B%E5%AE%9E%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E8%B7%83%E5%8D%87%23&t=31&band_rank=7&Refer=top) 567213
 1. [爸爸连夜为儿子做课文中的竹节人](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BF%9E%E5%A4%9C%E4%B8%BA%E5%84%BF%E5%AD%90%E5%81%9A%E8%AF%BE%E6%96%87%E4%B8%AD%E7%9A%84%E7%AB%B9%E8%8A%82%E4%BA%BA%23&t=31&band_rank=5&Refer=top) 536691
@@ -111,6 +111,15 @@
 1. [90后学霸10年参加上百次发射任务](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AD%A6%E9%9C%B810%E5%B9%B4%E5%8F%82%E5%8A%A0%E4%B8%8A%E7%99%BE%E6%AC%A1%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=19&Refer=top) 75422
 1. [舅舅抱娃摔倒瞬间180度翻转当肉垫](https://s.weibo.com/weibo?q=%23%E8%88%85%E8%88%85%E6%8A%B1%E5%A8%83%E6%91%94%E5%80%92%E7%9E%AC%E9%97%B4180%E5%BA%A6%E7%BF%BB%E8%BD%AC%E5%BD%93%E8%82%89%E5%9E%AB%23&t=31&band_rank=33&Refer=top) 72062
 1. [DOTA2](https://s.weibo.com/weibo?q=%23DOTA2%23&t=31&band_rank=47&Refer=top) 62617
+1. [万里归途票房破13亿](https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B413%E4%BA%BF%23&t=31&band_rank=17&Refer=top) 58871
+1. [西安电子科技大学91周年校庆](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A691%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23&t=31&band_rank=19&Refer=top) 58827
+1. [因爸爸不让玩女儿抽泣控诉压力大](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E7%88%B8%E7%88%B8%E4%B8%8D%E8%AE%A9%E7%8E%A9%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%B3%A3%E6%8E%A7%E8%AF%89%E5%8E%8B%E5%8A%9B%E5%A4%A7%23&t=31&band_rank=22&Refer=top) 58762
+1. [歼20工程师30多年隐秘而伟大](https://s.weibo.com/weibo?q=%23%E6%AD%BC20%E5%B7%A5%E7%A8%8B%E5%B8%8830%E5%A4%9A%E5%B9%B4%E9%9A%90%E7%A7%98%E8%80%8C%E4%BC%9F%E5%A4%A7%23&t=31&band_rank=23&Refer=top) 58731
+1. [怎么会不羡慕白秀珠呢](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E7%BE%A1%E6%85%95%E7%99%BD%E7%A7%80%E7%8F%A0%E5%91%A2%23&t=31&band_rank=24&Refer=top) 58719
+1. [罗云熙再演律师](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%86%8D%E6%BC%94%E5%BE%8B%E5%B8%88%23&t=31&band_rank=27&Refer=top) 58651
+1. [白发太姥姥教罕见病女孩用勺子](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%8F%91%E5%A4%AA%E5%A7%A5%E5%A7%A5%E6%95%99%E7%BD%95%E8%A7%81%E7%97%85%E5%A5%B3%E5%AD%A9%E7%94%A8%E5%8B%BA%E5%AD%90%23&t=31&band_rank=28&Refer=top) 58635
+1. [企业争相跨界布局咖啡行业](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E4%BA%89%E7%9B%B8%E8%B7%A8%E7%95%8C%E5%B8%83%E5%B1%80%E5%92%96%E5%95%A1%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=49&Refer=top) 58407
+1. [选文科真的是因为热爱](https://s.weibo.com/weibo?q=%23%E9%80%89%E6%96%87%E7%A7%91%E7%9C%9F%E7%9A%84%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1%23&t=31&band_rank=45&Refer=top) 58273
 1. [万里归途](https://s.weibo.com/weibo?q=%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94&t=31&band_rank=9&Refer=top) 55647
 1. [罗杰斯称中国将成为21世纪最成功的国家](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%9D%B0%E6%96%AF%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%88%90%E4%B8%BA21%E4%B8%96%E7%BA%AA%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=18&Refer=top) 55203
 1. [河南一村庄引来16位博士建研究院](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%9D%91%E5%BA%84%E5%BC%95%E6%9D%A516%E4%BD%8D%E5%8D%9A%E5%A3%AB%E5%BB%BA%E7%A0%94%E7%A9%B6%E9%99%A2%23&t=31&band_rank=10&Refer=top) 54534
@@ -122,7 +131,6 @@
 1. [摇滚狂花大结局太好哭了](https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&t=31&band_rank=29&Refer=top) 32831
 1. [统一有好处台独是绝路](https://s.weibo.com/weibo?q=%23%E7%BB%9F%E4%B8%80%E6%9C%89%E5%A5%BD%E5%A4%84%E5%8F%B0%E7%8B%AC%E6%98%AF%E7%BB%9D%E8%B7%AF%23&t=31&band_rank=30&Refer=top) 29870
 1. [光与夜之恋](https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23&t=31&band_rank=31&Refer=top) 29312
-1. [企业争相跨界布局咖啡行业](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E4%BA%89%E7%9B%B8%E8%B7%A8%E7%95%8C%E5%B8%83%E5%B1%80%E5%92%96%E5%95%A1%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=49&Refer=top) 27573
 1. [哄睡师包月套餐标价1.8万](https://s.weibo.com/weibo?q=%23%E5%93%84%E7%9D%A1%E5%B8%88%E5%8C%85%E6%9C%88%E5%A5%97%E9%A4%90%E6%A0%87%E4%BB%B71.8%E4%B8%87%23&t=31&band_rank=34&Refer=top) 27173
 1. [DK战胜EG](https://s.weibo.com/weibo?q=%23DK%E6%88%98%E8%83%9CEG%23&t=31&band_rank=50&Refer=top) 26254
 1. [八块钱的自行车盒饭](https://s.weibo.com/weibo?q=%23%E5%85%AB%E5%9D%97%E9%92%B1%E7%9A%84%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%9B%92%E9%A5%AD%23&t=31&band_rank=35&Refer=top) 26091
