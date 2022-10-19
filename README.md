@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-19 19:09:38
+最后更新时间 2022-10-19 20:14:37
 
 1. [中国共产党国际形象网宣片CPC](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9B%BD%E9%99%85%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%87CPC%23&t=31&band_rank=1&Refer=top) 714937
 1. [山西省委强调不能让国家为煤发愁](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%83%BD%E8%AE%A9%E5%9B%BD%E5%AE%B6%E4%B8%BA%E7%85%A4%E5%8F%91%E6%84%81%23&t=31&band_rank=1&Refer=top) 342851
@@ -156,13 +156,25 @@
 1. [模拟人生新作开发中](https://s.weibo.com/weibo?q=%23%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%94%9F%E6%96%B0%E4%BD%9C%E5%BC%80%E5%8F%91%E4%B8%AD%23&t=31&band_rank=45&Refer=top) 80160
 1. [罗云熙说救人面前工作可以往后稍](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%AF%B4%E6%95%91%E4%BA%BA%E9%9D%A2%E5%89%8D%E5%B7%A5%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%BE%80%E5%90%8E%E7%A8%8D%23&t=31&band_rank=46&Refer=top) 78864
 1. [当代正确的爱情观是什么](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%88%B1%E6%83%85%E8%A7%82%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=47&Refer=top) 76509
+1. [马龙vs宇田幸矢](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E5%AE%87%E7%94%B0%E5%B9%B8%E7%9F%A2%23&t=31&band_rank=6&Refer=top) 74782
+1. [单身了很久的人在想什么](https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E4%BA%86%E5%BE%88%E4%B9%85%E7%9A%84%E4%BA%BA%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88%23&t=31&band_rank=10&Refer=top) 74667
+1. [女生校内晕倒2流浪狗舔鼻唤醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E6%99%95%E5%80%922%E6%B5%81%E6%B5%AA%E7%8B%97%E8%88%94%E9%BC%BB%E5%94%A4%E9%86%92%23&t=31&band_rank=11&Refer=top) 74659
+1. [真的会被龙葵射箭帅到](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E9%BE%99%E8%91%B5%E5%B0%84%E7%AE%AD%E5%B8%85%E5%88%B0%23&t=31&band_rank=12&Refer=top) 74628
+1. [猫啃坏3条数据线女子买串珠防护](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%95%83%E5%9D%8F3%E6%9D%A1%E6%95%B0%E6%8D%AE%E7%BA%BF%E5%A5%B3%E5%AD%90%E4%B9%B0%E4%B8%B2%E7%8F%A0%E9%98%B2%E6%8A%A4%23&t=31&band_rank=13&Refer=top) 74603
+1. [孕妇7个月大出血4个派出所生命接力](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%877%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%87%BA%E8%A1%804%E4%B8%AA%E6%B4%BE%E5%87%BA%E6%89%80%E7%94%9F%E5%91%BD%E6%8E%A5%E5%8A%9B%23&t=31&band_rank=15&Refer=top) 74556
+1. [苹果卖67元USB-C转换器被吐槽](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%9667%E5%85%83USB-C%E8%BD%AC%E6%8D%A2%E5%99%A8%E8%A2%AB%E5%90%90%E6%A7%BD%23&t=31&band_rank=22&Refer=top) 74346
+1. [为什么说情绪价值重要](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E9%87%8D%E8%A6%81%23&t=31&band_rank=24&Refer=top) 74311
+1. [被女生之间的善意感动到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A5%B3%E7%94%9F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%96%84%E6%84%8F%E6%84%9F%E5%8A%A8%E5%88%B0%E4%BA%86%23&t=31&band_rank=34&Refer=top) 74028
+1. [掌握了买水果好吃的秘诀](https://s.weibo.com/weibo?q=%23%E6%8E%8C%E6%8F%A1%E4%BA%86%E4%B9%B0%E6%B0%B4%E6%9E%9C%E5%A5%BD%E5%90%83%E7%9A%84%E7%A7%98%E8%AF%80%23&t=31&band_rank=43&Refer=top) 73812
 1. [阴阳师](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=50&Refer=top) 73269
 1. [男生穿回同学破校服让妈妈帮缝](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%A9%BF%E5%9B%9E%E5%90%8C%E5%AD%A6%E7%A0%B4%E6%A0%A1%E6%9C%8D%E8%AE%A9%E5%A6%88%E5%A6%88%E5%B8%AE%E7%BC%9D%23&t=31&band_rank=38&Refer=top) 72800
 1. [Apple](https://s.weibo.com/weibo?q=Apple&t=31&band_rank=23&Refer=top) 69522
 1. [这就是腾云驾雾吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE%E5%90%97%23&t=31&band_rank=50&Refer=top) 69075
 1. [澳宣布不再承认西耶路撒冷为以色列首都](https://s.weibo.com/weibo?q=%E6%BE%B3%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E6%89%BF%E8%AE%A4%E8%A5%BF%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E4%B8%BA%E4%BB%A5%E8%89%B2%E5%88%97%E9%A6%96%E9%83%BD&t=31&band_rank=40&Refer=top) 68351
 1. [同单元楼上女孩跳舞楼下女子哄娃](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%8D%95%E5%85%83%E6%A5%BC%E4%B8%8A%E5%A5%B3%E5%AD%A9%E8%B7%B3%E8%88%9E%E6%A5%BC%E4%B8%8B%E5%A5%B3%E5%AD%90%E5%93%84%E5%A8%83%23&t=31&band_rank=46&Refer=top) 68265
+1. [哥你好延长上映至11月29日](https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BD%A0%E5%A5%BD%E5%BB%B6%E9%95%BF%E4%B8%8A%E6%98%A0%E8%87%B311%E6%9C%8829%E6%97%A5%23&t=31&band_rank=47&Refer=top) 64473
 1. [故宫角楼银杏](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E8%A7%92%E6%A5%BC%E9%93%B6%E6%9D%8F%23&t=31&band_rank=34&Refer=top) 64106
+1. [马龙3比1宇田幸矢](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%993%E6%AF%941%E5%AE%87%E7%94%B0%E5%B9%B8%E7%9F%A2%23&t=31&band_rank=48&Refer=top) 63902
 1. [二十大广西代表团讨论微镜头](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B9%BF%E8%A5%BF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%A8%E8%AE%BA%E5%BE%AE%E9%95%9C%E5%A4%B4%23&t=31&band_rank=2&Refer=top) 63811
 1. [考研学生楼道里挑灯夜读](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%AD%A6%E7%94%9F%E6%A5%BC%E9%81%93%E9%87%8C%E6%8C%91%E7%81%AF%E5%A4%9C%E8%AF%BB%23&t=31&band_rank=5&Refer=top) 63807
 1. [一定要吃的一碗土豆焖面](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%83%E7%9A%84%E4%B8%80%E7%A2%97%E5%9C%9F%E8%B1%86%E7%84%96%E9%9D%A2%23&t=31&band_rank=7&Refer=top) 63806
@@ -190,6 +202,7 @@
 1. [刘雁宇受伤](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%81%E5%AE%87%E5%8F%97%E4%BC%A4%23&t=31&band_rank=48&Refer=top) 63750
 1. [中国战队全部晋级TI淘汰赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9F%E5%85%A8%E9%83%A8%E6%99%8B%E7%BA%A7TI%E6%B7%98%E6%B1%B0%E8%B5%9B%23&t=31&band_rank=49&Refer=top) 63750
 1. [八旬夫妻穿情侣装牵手散步](https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A6%BB%E7%A9%BF%E6%83%85%E4%BE%A3%E8%A3%85%E7%89%B5%E6%89%8B%E6%95%A3%E6%AD%A5%23&t=31&band_rank=50&Refer=top) 63748
+1. [谷爱凌获最佳女运动员表现奖](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%8E%B7%E6%9C%80%E4%BD%B3%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E8%A1%A8%E7%8E%B0%E5%A5%96%23&t=31&band_rank=49&Refer=top) 62562
 1. [12岁男孩举办巨幅科幻画展](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%BE%E5%8A%9E%E5%B7%A8%E5%B9%85%E7%A7%91%E5%B9%BB%E7%94%BB%E5%B1%95%23&t=31&band_rank=50&Refer=top) 57260
 1. [早高峰挤地铁真的不容易](https://s.weibo.com/weibo?q=%23%E6%97%A9%E9%AB%98%E5%B3%B0%E6%8C%A4%E5%9C%B0%E9%93%81%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%AE%B9%E6%98%93%23&t=31&band_rank=46&Refer=top) 40421
 1. [减肥期间的PUA行为](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E6%9C%9F%E9%97%B4%E7%9A%84PUA%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=49&Refer=top) 25627
