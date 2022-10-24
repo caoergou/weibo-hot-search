@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-25 01:26:21
+最后更新时间 2022-10-25 02:18:58
 
 1. [共同富裕不是平均主义不是劫富济贫](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%90%8C%E5%AF%8C%E8%A3%95%E4%B8%8D%E6%98%AF%E5%B9%B3%E5%9D%87%E4%B8%BB%E4%B9%89%E4%B8%8D%E6%98%AF%E5%8A%AB%E5%AF%8C%E6%B5%8E%E8%B4%AB%23&t=31&band_rank=1&Refer=top) 559412
 1. [防止领导干部成为利益集团和权势团体代言人](https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%AD%A2%E9%A2%86%E5%AF%BC%E5%B9%B2%E9%83%A8%E6%88%90%E4%B8%BA%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2%E5%92%8C%E6%9D%83%E5%8A%BF%E5%9B%A2%E4%BD%93%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=2&Refer=top) 31937
@@ -72,6 +72,8 @@
 1. [妈妈用相机拍下宝宝逛超市视角](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E7%9B%B8%E6%9C%BA%E6%8B%8D%E4%B8%8B%E5%AE%9D%E5%AE%9D%E9%80%9B%E8%B6%85%E5%B8%82%E8%A7%86%E8%A7%92%23&t=31&band_rank=25&Refer=top) 16281
 1. [刘宇宁直播唱浮生](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%94%B1%E6%B5%AE%E7%94%9F%23&t=31&band_rank=26&Refer=top) 16273
 1. [古偶与扇子适配度](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%81%B6%E4%B8%8E%E6%89%87%E5%AD%90%E9%80%82%E9%85%8D%E5%BA%A6%23&t=31&band_rank=43&Refer=top) 16176
+1. [苏纳克当选英国保守党党首](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BA%B3%E5%85%8B%E5%BD%93%E9%80%89%E8%8B%B1%E5%9B%BD%E4%BF%9D%E5%AE%88%E5%85%9A%E5%85%9A%E9%A6%96%23&t=31&band_rank=46&Refer=top) 9303
+1. [那位培养大师的大师走了](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BD%8D%E5%9F%B9%E5%85%BB%E5%A4%A7%E5%B8%88%E7%9A%84%E5%A4%A7%E5%B8%88%E8%B5%B0%E4%BA%86%23&t=31&band_rank=50&Refer=top) 9282
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
