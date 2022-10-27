@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-28 05:03:18
+最后更新时间 2022-10-28 06:04:15
 
 1. [第一批鹤岗买房人已离开大半](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF%E4%BA%BA%E5%B7%B2%E7%A6%BB%E5%BC%80%E5%A4%A7%E5%8D%8A%23&t=31&band_rank=1&Refer=top) 1351099
 1. [金博洋](https://s.weibo.com/weibo?q=%E9%87%91%E5%8D%9A%E6%B4%8B&t=31&band_rank=2&Refer=top) 878021
@@ -74,11 +74,13 @@
 1. [从小就会玩谐音梗](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%B0%8F%E5%B0%B1%E4%BC%9A%E7%8E%A9%E8%B0%90%E9%9F%B3%E6%A2%97%23&t=31&band_rank=49&Refer=top) 46924
 1. [专家称是人斯人两种写法都有](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%98%AF%E4%BA%BA%E6%96%AF%E4%BA%BA%E4%B8%A4%E7%A7%8D%E5%86%99%E6%B3%95%E9%83%BD%E6%9C%89%23&t=31&band_rank=50&Refer=top) 40361
 1. [gidle新歌获MCD一位](https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E6%AD%8C%E8%8E%B7MCD%E4%B8%80%E4%BD%8D%23&t=31&band_rank=38&Refer=top) 35183
+1. [双胞胎姐妹同天同医院生娃](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%90%8C%E5%A4%A9%E5%90%8C%E5%8C%BB%E9%99%A2%E7%94%9F%E5%A8%83%23&t=31&band_rank=22&Refer=top) 34407
 1. [学生时期留下的永久印迹](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%97%B6%E6%9C%9F%E7%95%99%E4%B8%8B%E7%9A%84%E6%B0%B8%E4%B9%85%E5%8D%B0%E8%BF%B9%23&t=31&band_rank=19&Refer=top) 25314
+1. [两次跳湖救人出租司机被申报见义勇为](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%AC%A1%E8%B7%B3%E6%B9%96%E6%95%91%E4%BA%BA%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%94%B3%E6%8A%A5%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23&t=31&band_rank=24&Refer=top) 23451
+1. [家装也能这么可爱](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E8%A3%85%E4%B9%9F%E8%83%BD%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%23&t=31&band_rank=19&Refer=top) 19612
 1. [林彦俊晒日常随拍](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E6%99%92%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=44&Refer=top) 19038
-1. [家装也能这么可爱](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E8%A3%85%E4%B9%9F%E8%83%BD%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%23&t=31&band_rank=19&Refer=top) 17536
-1. [双胞胎姐妹同天同医院生娃](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%90%8C%E5%A4%A9%E5%90%8C%E5%8C%BB%E9%99%A2%E7%94%9F%E5%A8%83%23&t=31&band_rank=22&Refer=top) 16602
-1. [两次跳湖救人出租司机被申报见义勇为](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%AC%A1%E8%B7%B3%E6%B9%96%E6%95%91%E4%BA%BA%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%94%B3%E6%8A%A5%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23&t=31&band_rank=24&Refer=top) 14501
+1. [普京指挥应对大规模核打击训练](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8C%87%E6%8C%A5%E5%BA%94%E5%AF%B9%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%B8%E6%89%93%E5%87%BB%E8%AE%AD%E7%BB%83%23&t=31&band_rank=39&Refer=top) 12428
+1. [7类商品线上销售额大增](https://s.weibo.com/weibo?q=%237%E7%B1%BB%E5%95%86%E5%93%81%E7%BA%BF%E4%B8%8A%E9%94%80%E5%94%AE%E9%A2%9D%E5%A4%A7%E5%A2%9E%23&t=31&band_rank=50&Refer=top) 10542
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
