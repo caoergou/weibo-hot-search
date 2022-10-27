@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-10-28 03:08:01
+最后更新时间 2022-10-28 04:07:15
 
 1. [第一批鹤岗买房人已离开大半](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%B9%A4%E5%B2%97%E4%B9%B0%E6%88%BF%E4%BA%BA%E5%B7%B2%E7%A6%BB%E5%BC%80%E5%A4%A7%E5%8D%8A%23&t=31&band_rank=1&Refer=top) 1351099
 1. [金博洋](https://s.weibo.com/weibo?q=%E9%87%91%E5%8D%9A%E6%B4%8B&t=31&band_rank=2&Refer=top) 878021
