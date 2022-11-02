@@ -17,7 +17,7 @@
 
 <!-- Rank Begin -->
 
-最后更新时间 2022-11-03 04:06:33
+最后更新时间 2022-11-03 05:07:11
 
 1. [弟弟结婚25岁单身哥哥躲后院回避](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A25%E5%B2%81%E5%8D%95%E8%BA%AB%E5%93%A5%E5%93%A5%E8%BA%B2%E5%90%8E%E9%99%A2%E5%9B%9E%E9%81%BF%23&t=31&band_rank=1&Refer=top) 834901
 1. [多地通知11月起常态化核酸检测变化](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%80%9A%E7%9F%A511%E6%9C%88%E8%B5%B7%E5%B8%B8%E6%80%81%E5%8C%96%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%8F%98%E5%8C%96%23&t=31&band_rank=2&Refer=top) 701385
@@ -81,6 +81,9 @@
 1. [广西一14岁初中生被清华录取](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%8014%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%BD%95%E5%8F%96%23&t=31&band_rank=36&Refer=top) 37476
 1. [Gemini澄清声明](https://s.weibo.com/weibo?q=%23Gemini%E6%BE%84%E6%B8%85%E5%A3%B0%E6%98%8E%23&t=31&band_rank=47&Refer=top) 35276
 1. [绿萍的话怼到了我的心坎上](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%90%8D%E7%9A%84%E8%AF%9D%E6%80%BC%E5%88%B0%E4%BA%86%E6%88%91%E7%9A%84%E5%BF%83%E5%9D%8E%E4%B8%8A%23&t=31&band_rank=32&Refer=top) 25751
+1. [当代人的四大喜事](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%9B%9B%E5%A4%A7%E5%96%9C%E4%BA%8B%23&t=31&band_rank=19&Refer=top) 25126
+1. [什么都没快递重要](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E5%BF%AB%E9%80%92%E9%87%8D%E8%A6%81%23&t=31&band_rank=41&Refer=top) 12298
+1. [零下三度退役军人冲进湖中救人](https://s.weibo.com/weibo?q=%23%E9%9B%B6%E4%B8%8B%E4%B8%89%E5%BA%A6%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%86%B2%E8%BF%9B%E6%B9%96%E4%B8%AD%E6%95%91%E4%BA%BA%23&t=31&band_rank=50&Refer=top) 9596
 <!-- Rank End -->
 
 历史归档 [./archives](./archives)
